@@ -24,3 +24,5 @@ CF25
 |---- day#
 |    |---- Red Team
 |    |    |---- Machine
+
+![Localhost8080 NPC Previews](docs/localhost8080%20preview.png)

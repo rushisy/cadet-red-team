@@ -17,28 +17,9 @@ request to be added as a collaborator, or fork the repo and open a pull request 
 - we winged the file structure, where do we assign the specific "Role" (from Enrichment_Reqs.xlsx)?
 - which enclave in red team infrastructure has all the red team personas?
 
+## Campaign-Enclave-Team Hierarchy
 
-## File Structure
-
-<table>
-  <thead>
-    <tr>
-      <th>Machine</th>
-      <th>Campaign</th>
-      <th>Enclave</th>
-      <th>Team</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>(left blank) had trouble making these</td>
-      <td>CF25</td>
-      <td>day#</td>
-      <td>Red Team</td>
-    </tr>
-  </tbody>
-</table>
-
+```text
 CF25
 |---- day#
 |    |---- Red Team

@@ -19,6 +19,7 @@ request to be added as a collaborator, or fork the repo and open a pull request 
 
 ## Campaign-Enclave-Team Hierarchy
 
+from my understanding... (will ask for pipeline from client (machine) to Cyber Fortress)
 ```text
 CF25
 |---- day#

@@ -38,3 +38,8 @@ request to be added as a collaborator, or fork the repo and open a pull request 
     </tr>
   </tbody>
 </table>
+
+CF25
+|---- day#
+|    |---- Red Team
+|    |    |---- Machine

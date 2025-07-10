@@ -15,7 +15,7 @@ request to be added as a collaborator, or fork the repo and open a pull request 
 - do we need to make timelines for each persona?
 - how do we connect a data source (client) to grafana (frontend server)?
     - the example (admin sequence from documentation) uses a postgresql data source, is it the same backend on our virtual machine regardless of operating system?
-- we winged the file structure, where do we assign the specific "Role" (from Enrichment_Reqs.xlsx)?
+- we winged the file structure, where do we assign the specific "Role" (from [Enrichment_Reqs.xlsx](docs/Enrichment_Reqs.xlsx))?
 - which enclave in red team infrastructure has all the red team personas?
 
 ## Campaign-Enclave-Team Hierarchy

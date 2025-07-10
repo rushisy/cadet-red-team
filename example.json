@@ -1,0 +1,353 @@
+{
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "name": {
+    "prefix": "string",
+    "first": "string",
+    "middle": "string",
+    "last": "string",
+    "suffix": "string"
+  },
+  "address": [
+    {
+      "addressType": "string",
+      "name": "string",
+      "address1": "string",
+      "address2": "string",
+      "city": "string",
+      "state": "string",
+      "postalCode": "string"
+    }
+  ],
+  "email": "string",
+  "password": "string",
+  "homePhone": "string",
+  "cellPhone": "string",
+  "preferences": [
+    {
+      "id": 0,
+      "score": 0,
+      "name": "string",
+      "meta": "string"
+    }
+  ],
+  "unit": {
+    "country": "string",
+    "address": {
+      "addressType": "string",
+      "name": "string",
+      "address1": "string",
+      "address2": "string",
+      "city": "string",
+      "state": "string",
+      "postalCode": "string"
+    },
+    "sub": [
+      {
+        "name": "string",
+        "type": "string",
+        "nick": "string",
+        "hq": "string",
+        "sub": [
+          "string"
+        ]
+      }
+    ]
+  },
+  "rank": {
+    "branch": "USAF",
+    "pay": "string",
+    "name": "string",
+    "abbr": "string",
+    "classification": "string",
+    "billet": "string",
+    "mos": "string",
+    "mosid": "string",
+    "probability": 0
+  },
+  "education": {
+    "degrees": [
+      {
+        "level": "GED",
+        "degreeType": "string",
+        "major": "string",
+        "school": {
+          "name": "string",
+          "location": "string"
+        }
+      }
+    ]
+  },
+  "employment": {
+    "employmentRecords": [
+      {
+        "company": "string",
+        "startDate": "2025-07-10T05:52:39.351Z",
+        "endDate": "2025-07-10T05:52:39.351Z",
+        "department": "string",
+        "organization": "string",
+        "jobTitle": "string",
+        "level": 0,
+        "salary": 0,
+        "manager": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "emailSuffix": "string",
+        "email": "string",
+        "address": {
+          "addressType": "string",
+          "name": "string",
+          "address1": "string",
+          "address2": "string",
+          "city": "string",
+          "state": "string",
+          "postalCode": "string"
+        },
+        "phone": "string",
+        "employmentStatus": "FullTime"
+      }
+    ]
+  },
+  "biologicalSex": "Female",
+  "birthdate": "2025-07-10T05:52:39.351Z",
+  "health": {
+    "height": 0,
+    "weight": 0,
+    "bloodType": "string",
+    "preferredMeal": "string",
+    "medicalConditions": [
+      {
+        "name": "string",
+        "prescriptions": [
+          {
+            "name": "string"
+          }
+        ]
+      }
+    ]
+  },
+  "attributes": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "relationships": [
+    {
+      "id": 0,
+      "with": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "type": "string"
+    }
+  ],
+  "family": {
+    "members": [
+      {
+        "name": {
+          "prefix": "string",
+          "first": "string",
+          "middle": "string",
+          "last": "string",
+          "suffix": "string"
+        },
+        "relationship": "string"
+      }
+    ]
+  },
+  "finances": {
+    "netWorth": 0,
+    "totalDebt": 0,
+    "creditCards": [
+      {
+        "number": "string",
+        "type": "string"
+      }
+    ]
+  },
+  "mentalHealth": {
+    "interpersonalSkills": 0,
+    "adherenceToPolicy": 0,
+    "enthusiasmAndAttitude": 0,
+    "openToFeedback": 0,
+    "generalPerformance": 0,
+    "overallPerformance": 0,
+    "iq": 0,
+    "spideySense": 0,
+    "senseSomethingIsWrongQuotient": 0,
+    "happyQuotient": 0,
+    "melancholyQuotient": 0
+  },
+  "foreignTravel": {
+    "trips": [
+      {
+        "code": "string",
+        "country": "string",
+        "destination": "string",
+        "arriveDestination": "2025-07-10T05:52:39.351Z",
+        "departDestination": "2025-07-10T05:52:39.351Z"
+      }
+    ]
+  },
+  "career": {
+    "workEthic": 0,
+    "teamValue": 0,
+    "strengths": [
+      {
+        "name": "string"
+      }
+    ],
+    "weaknesses": [
+      {
+        "name": "string"
+      }
+    ]
+  },
+  "workstation": {
+    "name": "string",
+    "domain": "string",
+    "username": "string",
+    "password": "string",
+    "ipAddress": "string"
+  },
+  "insiderThreat": {
+    "access": {
+      "securityClearance": "string",
+      "physicalAccess": "string",
+      "systemsAccess": "string",
+      "isDoDSystemsPrivilegedUser": true,
+      "explosivesAccess": "string",
+      "cbrnAccess": "string",
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "criminalViolentOrAbusiveConduct": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "financialConsiderations": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "foreignConsiderations": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "judgementCharacterAndPsychologicalConditions": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "professionalLifecycleAndPerformance": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "securityAndComplianceIncidents": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "substanceAbuseAndAddictiveBehaviors": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "technicalActivity": {
+      "id": 0,
+      "relatedEvents": [
+        {
+          "id": 0,
+          "description": "string",
+          "correctiveAction": "string",
+          "reportedBy": "string",
+          "reported": "2025-07-10T05:52:39.351Z"
+        }
+      ]
+    },
+    "isBackgroundCheckStatusClear": true
+  },
+  "accounts": [
+    {
+      "id": 0,
+      "url": "string",
+      "username": "string",
+      "password": "string"
+    }
+  ],
+  "motivationalProfile": {
+    "acceptance": 0,
+    "beauty": 0,
+    "curiosity": 0,
+    "eating": 0,
+    "family": 0,
+    "honor": 0,
+    "idealism": 0,
+    "independence": 0,
+    "order": 0,
+    "physicalActivity": 0,
+    "power": 0,
+    "saving": 0,
+    "socialContact": 0,
+    "status": 0,
+    "tranquility": 0,
+    "vengeance": 0
+  },
+  "cac": "string",
+  "photoLink": "string",
+  "created": "2025-07-10T05:52:39.351Z"
+}

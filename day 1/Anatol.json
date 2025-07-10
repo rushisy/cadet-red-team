@@ -1,0 +1,534 @@
+{
+  "id": "883ae9d7-6169-476e-b1cb-d1b15407194d",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day1",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "883ae9d7-6169-476e-b1cb-d1b15407194d",
+    "name": {
+      "prefix": null,
+      "first": "Anatol",
+      "middle": null,
+      "last": "Doud",
+      "suffix": "I"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "216 Kolk Spurs",
+        "address2": null,
+        "city": "Mogadore",
+        "state": "Ohio",
+        "postalCode": "44260"
+      }
+    ],
+    "email": "anatol.doud.mil@mail.mil",
+    "password": "Kcp/ks<]",
+    "homePhone": "(461) 691-1968",
+    "cellPhone": "(328) 059-3289",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": "Base",
+        "name": "Fort Hood",
+        "address1": "606 Maison Shoals",
+        "address2": null,
+        "city": "Houston",
+        "state": "TX",
+        "postalCode": "77086"
+      },
+      "sub": [
+        {
+          "name": "III Corps",
+          "type": "Corps",
+          "nick": "America's Hammer",
+          "hq": null,
+          "sub": [
+            {
+              "name": "1st Cavalry Division",
+              "type": "Division",
+              "nick": "America’s First Team!",
+              "hq": "Fort Hood",
+              "sub": [
+                {
+                  "name": "1st Cavalry Division Sustainment Brigade",
+                  "type": "Brigade",
+                  "nick": "Wagonmasters",
+                  "hq": null,
+                  "sub": [
+                    {
+                      "name": "207th Brigade Signal Company",
+                      "type": "Company",
+                      "nick": null,
+                      "hq": null,
+                      "sub": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USARMY",
+      "pay": "E-1",
+      "name": "Private",
+      "abbr": "PVT",
+      "classification": "Enlisted Soldier",
+      "billet": null,
+      "mos": "Chemical, Biological, Radiological, And Nuclear (Cbrn) Specialist",
+      "mosid": "74D",
+      "probability": 0.0115702
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Mogadore High School",
+            "location": "Mogadore, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Rich Industries",
+          "startDate": "2007-05-01T09:18:53.0778187+00:00",
+          "endDate": null,
+          "department": "IT",
+          "organization": "Rich Industries",
+          "jobTitle": "Systems Analyst IV",
+          "level": 4,
+          "salary": 132753,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@RichIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Rich Industries",
+            "address1": "144 Hanlan Ports",
+            "address2": null,
+            "city": "Santa Fe",
+            "state": "New Mexico",
+            "postalCode": "87505"
+          },
+          "phone": "(818) 603-7918 x1441",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Nakatomi Trading Corp.",
+          "startDate": "2021-08-23T22:22:53.0795127+00:00",
+          "endDate": "2018-02-02T03:14:53.0792301+00:00",
+          "department": "Human Resources",
+          "organization": "Nakatomi Trading Corp.",
+          "jobTitle": "Human Resources II",
+          "level": 2,
+          "salary": 58389,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@NakatomiTradingCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Nakatomi Trading Corp.",
+            "address1": "532 Seamster Gardens",
+            "address2": null,
+            "city": "Noblesville",
+            "state": "Indiana",
+            "postalCode": "46060"
+          },
+          "phone": "(300) 621-0284 x9968",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Rich Industries",
+          "startDate": "2011-10-25T01:08:53.0811217+00:00",
+          "endDate": "2018-10-29T08:54:53.0808876+00:00",
+          "department": "IT",
+          "organization": "Rich Industries",
+          "jobTitle": "Programmer III",
+          "level": 3,
+          "salary": 100839,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@RichIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Rich Industries",
+            "address1": "875 Papageorges Drive",
+            "address2": null,
+            "city": "Myrtle Beach",
+            "state": "South Carolina",
+            "postalCode": "29577"
+          },
+          "phone": "(175) 076-3017 x6866",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Warbucks Industries",
+          "startDate": "2023-08-30T18:04:53.082711+00:00",
+          "endDate": "2022-02-08T18:15:53.0824635+00:00",
+          "department": "Buildings And Facilities",
+          "organization": "Warbucks Industries",
+          "jobTitle": "Facilities III",
+          "level": 3,
+          "salary": 56191,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@WarbucksIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Warbucks Industries",
+            "address1": "822 Marcel Orchard",
+            "address2": null,
+            "city": "Anaheim",
+            "state": "California",
+            "postalCode": "92805"
+          },
+          "phone": "(493) 740-5396 x0573",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Yoyodyne Propulsion Sys.",
+          "startDate": "2016-03-08T19:45:53.0833208+00:00",
+          "endDate": "2026-05-15T23:51:53.0830821+00:00",
+          "department": "Buildings And Facilities",
+          "organization": "Yoyodyne Propulsion Sys.",
+          "jobTitle": "Maintenance Services I",
+          "level": 1,
+          "salary": 29626,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@YoyodynePropulsionSys.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Yoyodyne Propulsion Sys.",
+            "address1": "579 Bartholomeo Wall",
+            "address2": null,
+            "city": "Ruckersville",
+            "state": "Virginia",
+            "postalCode": "22968"
+          },
+          "phone": "(962) 386-5599 x6659",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Gringotts",
+          "startDate": "2015-06-04T01:39:53.0838748+00:00",
+          "endDate": "2019-05-20T17:58:53.0836688+00:00",
+          "department": "Finance",
+          "organization": "Gringotts",
+          "jobTitle": "Accountant II",
+          "level": 2,
+          "salary": 44543,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@Gringotts.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Gringotts",
+            "address1": "260 Pokrywa Path",
+            "address2": null,
+            "city": "Montrose",
+            "state": "New York",
+            "postalCode": "10548"
+          },
+          "phone": "(281) 257-9693 x8221",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Tyrell Corp.",
+          "startDate": "2021-05-07T04:32:53.0853709+00:00",
+          "endDate": "2011-10-21T13:45:53.0851702+00:00",
+          "department": "Buildings And Facilities",
+          "organization": "Tyrell Corp.",
+          "jobTitle": "Maintenance Services I",
+          "level": 1,
+          "salary": 30815,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "AnatolDoud@TyrellCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Tyrell Corp.",
+            "address1": "708 Jewell Corner",
+            "address2": null,
+            "city": "Chicago",
+            "state": "Illinois",
+            "postalCode": "60623"
+          },
+          "phone": "(173) 782-9365 x3984",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "2001-07-15T16:48:53.0650818+00:00",
+    "health": {
+      "height": 73,
+      "weight": 166,
+      "bloodType": "A+",
+      "preferredMeal": "Gluten-free",
+      "medicalConditions": [
+        {
+          "name": "Colds and Cough",
+          "prescriptions": [
+            {
+              "name": "Acetaminophen"
+            },
+            {
+              "name": "Anticholinergics"
+            },
+            {
+              "name": "Antihistamines"
+            },
+            {
+              "name": "Antihistamines, Non-sedating"
+            },
+            {
+              "name": "NSAIDs"
+            },
+            {
+              "name": "Aspirin"
+            },
+            {
+              "name": "Dextromethorphan"
+            },
+            {
+              "name": "Ephedrine"
+            },
+            {
+              "name": "Guaifenesin"
+            },
+            {
+              "name": "Phenylephrine"
+            },
+            {
+              "name": "Phenylephrine (Ophthalmic)"
+            },
+            {
+              "name": "Pseudoephedrine"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Sunscreen"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Pepita",
+            "middle": "Shanan",
+            "last": "Darveau",
+            "suffix": null
+          },
+          "relationship": "Child"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 96333,
+      "totalDebt": 32711,
+      "creditCards": [
+        {
+          "number": "5169823988626041",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 55,
+      "adherenceToPolicy": 56,
+      "enthusiasmAndAttitude": 30,
+      "openToFeedback": 36,
+      "generalPerformance": 26,
+      "overallPerformance": 77,
+      "iq": 81,
+      "spideySense": 41,
+      "senseSomethingIsWrongQuotient": 3,
+      "happyQuotient": 27,
+      "melancholyQuotient": 3
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "MM",
+          "country": "Myanmar",
+          "destination": "Myitkyina, Myanmar",
+          "arriveDestination": "2011-07-12T01:30:44.0898842+00:00",
+          "departDestination": "2011-07-20T17:37:31.0898842+00:00"
+        },
+        {
+          "code": "DE",
+          "country": "Germany",
+          "destination": "Dessau, Germany",
+          "arriveDestination": "2019-07-12T13:03:54.140286+00:00",
+          "departDestination": "2019-07-15T17:34:27.140286+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 21,
+      "teamValue": 8,
+      "strengths": [
+        {
+          "name": "Data Structures"
+        },
+        {
+          "name": "Project Launch"
+        },
+        {
+          "name": "Customer Needs Analysis"
+        },
+        {
+          "name": "Performance Tracking"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Providing too much detail in reports"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-46.local",
+      "domain": "soldera.mil",
+      "username": "anatol.doud",
+      "password": "8vjjT(Z*",
+      "ipAddress": "192.168.236.228"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee brought alcohol to work",
+            "correctiveAction": "Written warning",
+            "reportedBy": "Harvie Whidden",
+            "reported": "2017-11-06T19:00:53.6564215+00:00"
+          }
+        ]
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2014-07-08T21:08:53.6583235+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "anatoldoud",
+        "password": "r@D2UifZ"
+      },
+      {
+        "id": 0,
+        "url": "GitHub",
+        "username": "HuntTheDog",
+        "password": "I,.(oEd&"
+      },
+      {
+        "id": 0,
+        "url": "http://kletchko.name",
+        "username": "KingLMAO",
+        "password": "HW@m>kqY"
+      },
+      {
+        "id": 0,
+        "url": "http://gillet.us",
+        "username": "mildlyderanged",
+        "password": "wFYAd1yD"
+      },
+      {
+        "id": 0,
+        "url": "http://metz.biz",
+        "username": "rababababb",
+        "password": "8Kvo4YwX"
+      },
+      {
+        "id": 0,
+        "url": "http://fauchercharlton.co.uk",
+        "username": "anatoldoud8636",
+        "password": "xf@iILJV"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 0.06306311000399845,
+      "beauty": -0.4547695809929748,
+      "curiosity": -1.2420505699431161,
+      "eating": -0.6126856376019898,
+      "family": 0.8035272625894891,
+      "honor": 1.484891643025513,
+      "idealism": -1.3524546830719966,
+      "independence": 1.6700600394385323,
+      "order": 0.7592116751996221,
+      "physicalActivity": 0.33892923649220696,
+      "power": -0.5174397842122942,
+      "saving": 1.7967674869840868,
+      "socialContact": 1.1794682034849622,
+      "status": -1.8194243717804626,
+      "tranquility": -0.9272389862070383,
+      "vengeance": 1.927213836253368
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/193.jpg",
+    "created": "2025-07-10T05:48:53.0530863Z"
+  }
+}

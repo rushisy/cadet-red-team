@@ -1,0 +1,551 @@
+{
+  "id": "639decf5-762d-4ec2-bffc-74684a55f2e7",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day1",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "639decf5-762d-4ec2-bffc-74684a55f2e7",
+    "name": {
+      "prefix": null,
+      "first": "Staffard",
+      "middle": null,
+      "last": "Moree",
+      "suffix": "DDS"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "748 Abbott Drives",
+        "address2": null,
+        "city": "Austin",
+        "state": "Texas",
+        "postalCode": "78745"
+      }
+    ],
+    "email": "staffard.moree.mil@mail.mil",
+    "password": "&!<OjK_s",
+    "homePhone": "(531) 241-8950",
+    "cellPhone": "(524) 944-0010",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "U.S. Coast Guard Cyber Command",
+          "type": "Command",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USCG",
+      "pay": "E-4",
+      "name": "Petty Officer Third Class",
+      "abbr": "PO3",
+      "classification": "Petty Officer",
+      "billet": null,
+      "mos": "Gunner's Mate",
+      "mosid": "GM",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Associates",
+          "degreeType": "A.S.",
+          "major": "Audiology/Audiologist and Speech-Language Pathology/Pathologist",
+          "school": {
+            "name": "Hidalgo County Community College",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2011-11-12T20:10:54.2831637+00:00",
+          "endDate": null,
+          "department": "IT",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Systems Analyst III",
+          "level": 3,
+          "salary": 60364,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "StaffardMoree@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "518 Sergeant Glen",
+            "address2": null,
+            "city": "Worcester",
+            "state": "Massachusetts",
+            "postalCode": "01607"
+          },
+          "phone": "(376) 430-0935 x9000",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2018-05-25T05:43:54.2836449+00:00",
+          "endDate": "2011-12-04T08:47:54.2834127+00:00",
+          "department": "Human Resources",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 46170,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "StaffardMoree@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "208 Erasmus Wells",
+            "address2": null,
+            "city": "Winston Salem",
+            "state": "North Carolina",
+            "postalCode": "27103"
+          },
+          "phone": "(969) 490-3610 x4634",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Acme Corp.",
+          "startDate": "2014-10-08T20:57:54.2840415+00:00",
+          "endDate": "2010-06-05T21:43:54.2838704+00:00",
+          "department": "Finance",
+          "organization": "Acme Corp.",
+          "jobTitle": "Accountant II",
+          "level": 2,
+          "salary": 44254,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "StaffardMoree@AcmeCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Acme Corp.",
+            "address1": "822 Waylon Square",
+            "address2": null,
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "postalCode": "45218"
+          },
+          "phone": "(221) 222-7853 x7283",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Rich Industries",
+          "startDate": "2016-08-18T03:54:54.2844788+00:00",
+          "endDate": "2021-08-24T09:26:54.2843073+00:00",
+          "department": "IT",
+          "organization": "Rich Industries",
+          "jobTitle": "Systems Analyst IV",
+          "level": 4,
+          "salary": 98611,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "StaffardMoree@RichIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Rich Industries",
+            "address1": "316 Kirady Bridge",
+            "address2": null,
+            "city": "Fresno",
+            "state": "California",
+            "postalCode": "93706"
+          },
+          "phone": "(353) 276-9790 x1134",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Nakatomi Trading Corp.",
+          "startDate": "2020-08-24T16:08:54.2856142+00:00",
+          "endDate": "2015-10-31T06:51:54.2854349+00:00",
+          "department": "IT",
+          "organization": "Nakatomi Trading Corp.",
+          "jobTitle": "Programmer I",
+          "level": 2,
+          "salary": 40706,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "StaffardMoree@NakatomiTradingCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Nakatomi Trading Corp.",
+            "address1": "332 Ruddy Camp",
+            "address2": null,
+            "city": "Seattle",
+            "state": "Washington",
+            "postalCode": "98101"
+          },
+          "phone": "(094) 520-0838 x5725",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Umbrella Corp.",
+          "startDate": "2008-03-21T17:17:54.2860188+00:00",
+          "endDate": "2020-06-30T03:03:54.2858253+00:00",
+          "department": "IT",
+          "organization": "Umbrella Corp.",
+          "jobTitle": "Systems Analyst III",
+          "level": 3,
+          "salary": 67853,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "StaffardMoree@UmbrellaCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Umbrella Corp.",
+            "address1": "112 Jackman Prairie",
+            "address2": null,
+            "city": "Eastman",
+            "state": "Georgia",
+            "postalCode": "31023"
+          },
+          "phone": "(383) 797-3469 x7931",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "2003-08-15T22:48:54.2768422+00:00",
+    "health": {
+      "height": 72,
+      "weight": 161,
+      "bloodType": "O+",
+      "preferredMeal": "Gluten-free",
+      "medicalConditions": [
+        {
+          "name": "Bronchitis",
+          "prescriptions": [
+            {
+              "name": "Bronchodilators, Xanthine"
+            },
+            {
+              "name": "Dextromethorphan"
+            },
+            {
+              "name": "Ipratropium"
+            },
+            {
+              "name": "Cephalosporins"
+            },
+            {
+              "name": "Fluoroquinolones"
+            },
+            {
+              "name": "Macrolides"
+            },
+            {
+              "name": "Sulfonamides"
+            },
+            {
+              "name": "Tetracyclines"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Cell phone charger,Basic tools (hammer, screwdrivers, pliers, wrench, crowbar)"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": "Dr.",
+            "first": "Joye",
+            "middle": null,
+            "last": "Salvin",
+            "suffix": null
+          },
+          "relationship": "Child"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 92242,
+      "totalDebt": 85142,
+      "creditCards": [
+        {
+          "number": "4485445696144446",
+          "type": "Visa"
+        },
+        {
+          "number": "4916221184247317",
+          "type": "Visa"
+        },
+        {
+          "number": "5392469071176459",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 59,
+      "adherenceToPolicy": 32,
+      "enthusiasmAndAttitude": 96,
+      "openToFeedback": 45,
+      "generalPerformance": 65,
+      "overallPerformance": 88,
+      "iq": 118,
+      "spideySense": 92,
+      "senseSomethingIsWrongQuotient": 7,
+      "happyQuotient": 37,
+      "melancholyQuotient": 96
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "CO",
+          "country": "Colombia",
+          "destination": "Plato, Colombia",
+          "arriveDestination": "2007-07-11T19:41:02.2887274+00:00",
+          "departDestination": "2007-07-24T01:50:31.2887274+00:00"
+        },
+        {
+          "code": "FR",
+          "country": "France",
+          "destination": "Aix-les-Bains, France",
+          "arriveDestination": "2019-07-12T18:59:51.3318311+00:00",
+          "departDestination": "2019-07-29T12:41:52.3318311+00:00"
+        },
+        {
+          "code": "MX",
+          "country": "Mexico",
+          "destination": "Rincón de Romos, Mexico",
+          "arriveDestination": "2005-07-10T14:09:16.3748722+00:00",
+          "departDestination": "2005-07-14T22:01:52.3748722+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 11,
+      "teamValue": 26,
+      "strengths": [
+        {
+          "name": "Agile Development"
+        },
+        {
+          "name": "Reducing Customer Acquisition Cost (CAC)"
+        },
+        {
+          "name": "Answering Phones"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Public speaking"
+        },
+        {
+          "name": "Taking on too much responsibility"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-38.local",
+      "domain": "burkard.mil",
+      "username": "staffard.moree",
+      "password": ".d$H8ykd",
+      "ipAddress": "192.168.115.198"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Involuntary lien or unfavorable judgement",
+            "correctiveAction": null,
+            "reportedBy": "Rockwell Jameson Finane",
+            "reported": "2013-10-01T02:43:54.5206535+00:00"
+          }
+        ]
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee threatened coworker",
+            "correctiveAction": "Pay Garnishment",
+            "reportedBy": "Saunderson Brooksbank",
+            "reported": "2019-11-14T15:00:54.5226005+00:00"
+          }
+        ]
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Financial Hardship",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2024-12-12T00:45:54.5237452+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "sta186",
+        "password": "^1>)7:@o"
+      },
+      {
+        "id": 0,
+        "url": "Youtube",
+        "username": "staffardmoree",
+        "password": "xJ2T2TpR"
+      },
+      {
+        "id": 0,
+        "url": "Pinterest",
+        "username": "staffard",
+        "password": "/,nmMK}#"
+      },
+      {
+        "id": 0,
+        "url": "Telegram",
+        "username": "staffardmoree5913",
+        "password": "^h,DsEhp"
+      },
+      {
+        "id": 0,
+        "url": "Pinterest",
+        "username": "staf8336",
+        "password": "Nu[9DOx6"
+      },
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "staffa",
+        "password": "hB.{hF^A"
+      },
+      {
+        "id": 0,
+        "url": "gmail",
+        "username": "s1765",
+        "password": ",E<H*%6x"
+      },
+      {
+        "id": 0,
+        "url": "GitHub",
+        "username": "sta321",
+        "password": ">Hw8a|({"
+      },
+      {
+        "id": 0,
+        "url": "Twitter",
+        "username": "staffardmor6835",
+        "password": "6rp1f[8!"
+      },
+      {
+        "id": 0,
+        "url": "QQ",
+        "username": "Ydyss",
+        "password": "KuFgi>.Z"
+      },
+      {
+        "id": 0,
+        "url": "http://grossman.ca",
+        "username": "s6818",
+        "password": "cNet,cZ{"
+      },
+      {
+        "id": 0,
+        "url": "http://zaretsky.com",
+        "username": "staffard4466",
+        "password": "JrEttii("
+      },
+      {
+        "id": 0,
+        "url": "http://dayahuneault.com",
+        "username": "staf9221",
+        "password": "bh;Zt/,z"
+      },
+      {
+        "id": 0,
+        "url": "http://everitt.uk",
+        "username": "staff",
+        "password": "jNf1!!jH"
+      },
+      {
+        "id": 0,
+        "url": "http://dorrelldadkhah.uk",
+        "username": "staffardmo6061",
+        "password": ".9]B2&nX"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 0.4117477296803096,
+      "beauty": 1.7991195015787063,
+      "curiosity": 0.284818924148996,
+      "eating": 0.1752875658890436,
+      "family": -1.6736941302994928,
+      "honor": 1.2415583129052155,
+      "idealism": 1.6567977769347797,
+      "independence": -0.6682100280174796,
+      "order": 0.15853335303100025,
+      "physicalActivity": -0.014296449364551211,
+      "power": -0.5094289018350762,
+      "saving": 1.0366192032255053,
+      "socialContact": 1.3347278274193797,
+      "status": -0.32596642553594535,
+      "tranquility": 1.6445849654555431,
+      "vengeance": -0.6027985859105396
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/174.jpg",
+    "created": "2025-07-10T05:48:54.2709338Z"
+  }
+}

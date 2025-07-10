@@ -1,0 +1,496 @@
+{
+  "id": "1ae0051e-ebdc-448d-a920-b22d22a60ae6",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day4",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "1ae0051e-ebdc-448d-a920-b22d22a60ae6",
+    "name": {
+      "prefix": null,
+      "first": "Krissie",
+      "middle": "Enrica",
+      "last": "Boone",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "718 Gerhart Centers",
+        "address2": null,
+        "city": "Suffern",
+        "state": "New York",
+        "postalCode": "10901"
+      }
+    ],
+    "email": "krissie.enrica.boone.mil@mail.mil",
+    "password": ":nZEOEdq",
+    "homePhone": "(130) 996-7336",
+    "cellPhone": "(978) 604-4403",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "175th Cyberspace Operations Group",
+          "type": "Group",
+          "nick": null,
+          "hq": null,
+          "sub": [
+            {
+              "name": "276th Cyberspace Operations Squadron",
+              "type": "Squadron",
+              "nick": null,
+              "hq": null,
+              "sub": []
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USAF",
+      "pay": "E-4",
+      "name": "Senior Airman",
+      "abbr": "SrA",
+      "classification": "Enlisted Airman",
+      "billet": null,
+      "mos": "Behavioral Science/Human Factors Scientist",
+      "mosid": "61BX",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Associates",
+          "degreeType": "A.A.",
+          "major": "Critical Infrastructure Protection",
+          "school": {
+            "name": "Los Angeles County Community College",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Sirius Cybernetics Corp.",
+          "startDate": "2017-10-28T00:58:01.2481485+00:00",
+          "endDate": null,
+          "department": "Buildings And Facilities",
+          "organization": "Sirius Cybernetics Corp.",
+          "jobTitle": "Maintenance Services I",
+          "level": 1,
+          "salary": 30234,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KrissieEnricaBoone@SiriusCyberneticsCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Sirius Cybernetics Corp.",
+            "address1": "536 Mufti Landing",
+            "address2": null,
+            "city": "Kings Mountain",
+            "state": "North Carolina",
+            "postalCode": "28086"
+          },
+          "phone": "(923) 349-0678 x4007",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Acme Corp.",
+          "startDate": "2012-10-09T10:36:01.2492421+00:00",
+          "endDate": "2012-12-23T21:40:01.2490742+00:00",
+          "department": "Purchasing",
+          "organization": "Acme Corp.",
+          "jobTitle": "Cashier I,",
+          "level": 1,
+          "salary": 10509,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KrissieEnricaBoone@AcmeCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Acme Corp.",
+            "address1": "996 Xaviera Heights",
+            "address2": null,
+            "city": "Godley",
+            "state": "Texas",
+            "postalCode": "76044"
+          },
+          "phone": "(671) 387-2113 x7315",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Acme Corp.",
+          "startDate": "2021-04-07T17:23:01.2497746+00:00",
+          "endDate": "2011-06-03T04:42:01.2496107+00:00",
+          "department": "Buildings And Facilities",
+          "organization": "Acme Corp.",
+          "jobTitle": "Facilities I",
+          "level": 1,
+          "salary": 35191,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KrissieEnricaBoone@AcmeCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Acme Corp.",
+            "address1": "005 Sheu Loop",
+            "address2": null,
+            "city": "Santa Maria",
+            "state": "California",
+            "postalCode": "93454"
+          },
+          "phone": "(835) 211-9175 x6164",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Female",
+    "birthdate": "1986-08-20T23:50:01.2418461+00:00",
+    "health": {
+      "height": 68,
+      "weight": 138,
+      "bloodType": "A+",
+      "preferredMeal": "Halal",
+      "medicalConditions": [
+        {
+          "name": "Blood Circulation",
+          "prescriptions": [
+            {
+              "name": "Cyclandelate"
+            },
+            {
+              "name": "Intermittent Claudication Agents"
+            },
+            {
+              "name": "Isoxsuprine"
+            },
+            {
+              "name": "Vitamin E"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Wrenches,Gel burn dressing"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Donny",
+            "middle": null,
+            "last": "Sharman",
+            "suffix": null
+          },
+          "relationship": "Child"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 51816,
+      "totalDebt": 75912,
+      "creditCards": [
+        {
+          "number": "5109189807729116",
+          "type": "MasterCard"
+        },
+        {
+          "number": "4916637347997029",
+          "type": "Visa"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 68,
+      "adherenceToPolicy": 56,
+      "enthusiasmAndAttitude": 14,
+      "openToFeedback": 14,
+      "generalPerformance": 41,
+      "overallPerformance": 13,
+      "iq": 116,
+      "spideySense": 82,
+      "senseSomethingIsWrongQuotient": 85,
+      "happyQuotient": 94,
+      "melancholyQuotient": 17
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "SY",
+          "country": "Syria",
+          "destination": "Ash Shaykh Miskīn, Syria",
+          "arriveDestination": "2015-07-11T21:42:14.2526804+00:00",
+          "departDestination": "2015-07-26T11:26:00.2526804+00:00"
+        },
+        {
+          "code": "UA",
+          "country": "Ukraine",
+          "destination": "Chervonohrad, Ukraine",
+          "arriveDestination": "2012-07-12T15:46:15.2952592+00:00",
+          "departDestination": "2012-07-26T01:27:28.2952592+00:00"
+        },
+        {
+          "code": "GT",
+          "country": "Guatemala",
+          "destination": "Sololá, Guatemala",
+          "arriveDestination": "2018-07-10T09:21:16.3388336+00:00",
+          "departDestination": "2018-07-17T12:02:25.3388336+00:00"
+        },
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Santiago, Brazil",
+          "arriveDestination": "2019-07-11T00:18:12.384292+00:00",
+          "departDestination": "2019-07-31T19:48:24.384292+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Boise, United States",
+          "arriveDestination": "2009-07-12T12:53:35.4356215+00:00",
+          "departDestination": "2009-07-20T08:12:54.4356215+00:00"
+        },
+        {
+          "code": "ES",
+          "country": "Spain",
+          "destination": "Elda, Spain",
+          "arriveDestination": "2010-07-11T01:40:23.4783692+00:00",
+          "departDestination": "2010-07-16T08:13:39.4783692+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": -24,
+      "teamValue": 21,
+      "strengths": [
+        {
+          "name": "Adaptable"
+        },
+        {
+          "name": "Critical Thinker"
+        },
+        {
+          "name": "Project Lifecycle Management"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Providing too much detail in reports"
+        },
+        {
+          "name": "Procrastination"
+        },
+        {
+          "name": "Taking on too many projects at once"
+        },
+        {
+          "name": "Being too much of a perfectionist"
+        },
+        {
+          "name": "Being too detail-oriented"
+        },
+        {
+          "name": "Spontaneity (you work better when prepared)"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-84.local",
+      "domain": "kleynenbergbocklage.mil",
+      "username": "krissie.enrica.boone",
+      "password": ":,(RvMjy",
+      "ipAddress": "192.168.98.25"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee was hostile towards coworker",
+            "correctiveAction": "Written warning",
+            "reportedBy": "Cynthia Rosana Mia",
+            "reported": "2013-07-16T08:46:01.9544459+00:00"
+          }
+        ]
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Policy Violation",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2019-03-01T03:02:01.9562076+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Instagram",
+        "username": "krissiee2818",
+        "password": ":^blGBNl"
+      },
+      {
+        "id": 0,
+        "url": "Telegram",
+        "username": "kriss",
+        "password": "xk4ITdG3"
+      },
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "emyjane",
+        "password": "zmsYA<gg"
+      },
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "krissieenricabo9323",
+        "password": "7:myNE%?"
+      },
+      {
+        "id": 0,
+        "url": "Google Hangouts",
+        "username": "Werner0u",
+        "password": "r1g(_K9b"
+      },
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "krissieenricaboone3052",
+        "password": "x6JhPYM|"
+      },
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "krissi6333",
+        "password": "zgobb+%R"
+      },
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "theweakmcmeek",
+        "password": "6V1#_n?k"
+      },
+      {
+        "id": 0,
+        "url": "Facebook",
+        "username": "krissieen4697",
+        "password": "h{tG]Y*0"
+      },
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "blakediesal",
+        "password": "5a2q6dBd"
+      },
+      {
+        "id": 0,
+        "url": "Instagram",
+        "username": "kriss3738",
+        "password": "u9RPf;d|"
+      },
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "k2794",
+        "password": "T?%3>RnB"
+      },
+      {
+        "id": 0,
+        "url": "http://ruane.co.uk",
+        "username": "WeirdTeenWiredFein",
+        "password": ")vX7rVu("
+      },
+      {
+        "id": 0,
+        "url": "http://pirklepalczuk.ca",
+        "username": "krissieenricaboone6580",
+        "password": "Z%!,yz5r"
+      },
+      {
+        "id": 0,
+        "url": "http://blakeknox.biz",
+        "username": "k1770",
+        "password": "lx]x(SyZ"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 0.33022839183694197,
+      "beauty": -1.4342723947534788,
+      "curiosity": -0.05974906603433672,
+      "eating": -0.47288194313514387,
+      "family": 1.5732253949304842,
+      "honor": -0.3000526222662758,
+      "idealism": 1.3699864724036717,
+      "independence": -0.10171900063906447,
+      "order": 0.9084881192406522,
+      "physicalActivity": 1.68633183670606,
+      "power": 0.7035815599108686,
+      "saving": 0.9924974729908134,
+      "socialContact": -1.600709020708594,
+      "status": -1.2150730135010948,
+      "tranquility": 0.6072234638071885,
+      "vengeance": -0.8390694607384317
+    },
+    "cac": null,
+    "photoLink": "config/photos/female/fb881cca-6f26-41c7-8c33-5fa7cfe14a4a/196.jpg",
+    "created": "2025-07-10T05:50:01.2358293Z"
+  }
+}

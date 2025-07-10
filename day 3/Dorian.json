@@ -1,0 +1,465 @@
+{
+  "id": "217f9b65-4aad-4587-89ae-1fbff85eb4d5",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day3",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "217f9b65-4aad-4587-89ae-1fbff85eb4d5",
+    "name": {
+      "prefix": null,
+      "first": "Dorian",
+      "middle": null,
+      "last": "Bayne",
+      "suffix": "DVM"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "280 Daunais Via",
+        "address2": null,
+        "city": "San Jose",
+        "state": "California",
+        "postalCode": "95124"
+      }
+    ],
+    "email": "dorian.bayne.mil@mail.mil",
+    "password": "DL+B+cW<",
+    "homePhone": "(916) 051-0553",
+    "cellPhone": "(545) 597-2682",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "140th Cyberspace Operations Squadron",
+          "type": "Squadron",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USAF",
+      "pay": "E-4",
+      "name": "Senior Airman",
+      "abbr": "SrA",
+      "classification": "Enlisted Airman",
+      "billet": null,
+      "mos": "Religious Affairs Airman",
+      "mosid": "5R0X1",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "San Jose High School",
+            "location": "San Jose, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Globex",
+          "startDate": "2020-09-20T09:46:40.6253436+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "Globex",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 44352,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "DorianBayne@Globex.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Globex",
+            "address1": "478 Shull Prairie",
+            "address2": null,
+            "city": "Clairton",
+            "state": "Pennsylvania",
+            "postalCode": "15025"
+          },
+          "phone": "(399) 770-3548 x9570",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Wayne Enterprises",
+          "startDate": "2008-10-12T10:47:40.6266546+00:00",
+          "endDate": "2026-09-27T20:20:40.6264754+00:00",
+          "department": "Human Resources",
+          "organization": "Wayne Enterprises",
+          "jobTitle": "Human Resources II",
+          "level": 2,
+          "salary": 59470,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "DorianBayne@WayneEnterprises.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wayne Enterprises",
+            "address1": "571 Phillipe Gardens",
+            "address2": null,
+            "city": "Santa Rosa",
+            "state": "California",
+            "postalCode": "95409"
+          },
+          "phone": "(628) 204-4879 x3400",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Oceanic Airlines",
+          "startDate": "2016-11-18T23:09:40.6271797+00:00",
+          "endDate": "2026-11-07T19:57:40.6269917+00:00",
+          "department": "Human Resources",
+          "organization": "Oceanic Airlines",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 43661,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "DorianBayne@OceanicAirlines.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Oceanic Airlines",
+            "address1": "676 Belford Glens",
+            "address2": null,
+            "city": "Dayton",
+            "state": "Maryland",
+            "postalCode": "21036"
+          },
+          "phone": "(604) 135-0143 x3059",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Wonka Industries",
+          "startDate": "2016-10-22T18:57:40.6284803+00:00",
+          "endDate": "2014-08-10T05:47:40.6282482+00:00",
+          "department": "Human Resources",
+          "organization": "Wonka Industries",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 49562,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "DorianBayne@WonkaIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wonka Industries",
+            "address1": "163 Thurman Manors",
+            "address2": null,
+            "city": "Peabody",
+            "state": "Massachusetts",
+            "postalCode": "01960"
+          },
+          "phone": "(212) 902-1229 x4590",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "MomCorp",
+          "startDate": "2023-06-12T03:38:40.6298614+00:00",
+          "endDate": "2026-01-08T09:54:40.6296371+00:00",
+          "department": "Corporate Research",
+          "organization": "MomCorp",
+          "jobTitle": "Research  Analyst III",
+          "level": 3,
+          "salary": 146520,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "DorianBayne@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "145 Rubin Lake",
+            "address2": null,
+            "city": "Warwick",
+            "state": "Rhode Island",
+            "postalCode": "02886"
+          },
+          "phone": "(937) 613-2332 x4257",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "1989-06-21T00:49:40.6165963+00:00",
+    "health": {
+      "height": 71,
+      "weight": 171,
+      "bloodType": "O+",
+      "preferredMeal": "Hindu",
+      "medicalConditions": [
+        {
+          "name": "Digestive Spasms",
+          "prescriptions": [
+            {
+              "name": "Clidinium"
+            },
+            {
+              "name": "Difenoxin and Atropine"
+            },
+            {
+              "name": "Dicyclomine"
+            },
+            {
+              "name": "Hyoscyamine"
+            },
+            {
+              "name": "Propantheline"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Tool kit"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Karola",
+            "middle": null,
+            "last": "Vandoorne",
+            "suffix": "MD"
+          },
+          "relationship": "Child"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Elyn",
+            "middle": null,
+            "last": "Berning",
+            "suffix": "DDS"
+          },
+          "relationship": "Child"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 11592,
+      "totalDebt": 31586,
+      "creditCards": [
+        {
+          "number": "5227314489145947",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 99,
+      "adherenceToPolicy": 96,
+      "enthusiasmAndAttitude": 11,
+      "openToFeedback": 19,
+      "generalPerformance": 5,
+      "overallPerformance": 38,
+      "iq": 115,
+      "spideySense": 24,
+      "senseSomethingIsWrongQuotient": 49,
+      "happyQuotient": 35,
+      "melancholyQuotient": 31
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Beloit, United States",
+          "arriveDestination": "2021-07-10T19:48:54.6350246+00:00",
+          "departDestination": "2021-07-24T12:52:53.6350246+00:00"
+        },
+        {
+          "code": "",
+          "country": "South Korea",
+          "destination": "Fuyo, South Korea",
+          "arriveDestination": "2020-07-11T04:25:57.6818389+00:00",
+          "departDestination": "2020-07-18T20:45:19.6818389+00:00"
+        },
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Santa Quitéria, Brazil",
+          "arriveDestination": "2021-07-10T17:04:50.7284379+00:00",
+          "departDestination": "2021-07-25T00:10:11.7284379+00:00"
+        },
+        {
+          "code": "IO",
+          "country": "India",
+          "destination": "Kekri, India",
+          "arriveDestination": "2023-07-11T13:12:39.7790014+00:00",
+          "departDestination": "2023-07-20T07:59:28.7790014+00:00"
+        },
+        {
+          "code": "NL",
+          "country": "Netherlands",
+          "destination": "Enkhuizen, Netherlands",
+          "arriveDestination": "2016-07-11T08:53:43.830668+00:00",
+          "departDestination": "2016-07-20T17:54:08.830668+00:00"
+        },
+        {
+          "code": "FR",
+          "country": "France",
+          "destination": "Allauch, France",
+          "arriveDestination": "2005-07-12T19:46:34.8735102+00:00",
+          "departDestination": "2005-07-22T14:10:18.8735102+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 18,
+      "teamValue": 0,
+      "strengths": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Calendar Management"
+        },
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Good Communicator"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Procrastination"
+        },
+        {
+          "name": "Procrastination"
+        },
+        {
+          "name": "Leaving projects unfinished"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-93.local",
+      "domain": "monachella.mil",
+      "username": "dorian.bayne",
+      "password": "DOQ709bD",
+      "ipAddress": "192.168.89.182"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2024-08-08T18:27:41.0424076+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Twitter",
+        "username": "dorianba2719",
+        "password": "E*48qXBk"
+      },
+      {
+        "id": 0,
+        "url": "Signal",
+        "username": "dorianba3268",
+        "password": "GQX}X>qr"
+      },
+      {
+        "id": 0,
+        "url": "http://marshalldormer.info",
+        "username": "do3936",
+        "password": "NvHg46wO"
+      },
+      {
+        "id": 0,
+        "url": "http://ritchie.info",
+        "username": "Rojobeamer",
+        "password": "|Snnq7+j"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": -0.5899684283361823,
+      "beauty": 1.2888702745561043,
+      "curiosity": 0.7628684403016943,
+      "eating": -0.2824812400043619,
+      "family": 0.5384396053628739,
+      "honor": 1.6508566422536024,
+      "idealism": 1.3805204181780852,
+      "independence": -1.156625260182523,
+      "order": -0.6433241675574819,
+      "physicalActivity": 1.760745247037442,
+      "power": 0.7171198844819524,
+      "saving": 1.6118805473567885,
+      "socialContact": 0.5182640938215548,
+      "status": 0.21746669800119545,
+      "tranquility": -0.6054022228090639,
+      "vengeance": -0.30286529936923623
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/182.jpg",
+    "created": "2025-07-10T05:49:40.606815Z"
+  }
+}

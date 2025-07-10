@@ -1,0 +1,556 @@
+{
+  "id": "8cee14f9-1f6f-4133-a6bf-e83e0e6b22bf",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day4",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "8cee14f9-1f6f-4133-a6bf-e83e0e6b22bf",
+    "name": {
+      "prefix": null,
+      "first": "Ethelred",
+      "middle": "Horacio",
+      "last": "Hughes-Cunningham",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "989 Donald Haven",
+        "address2": null,
+        "city": "Chicago",
+        "state": "Illinois",
+        "postalCode": "60659"
+      }
+    ],
+    "email": "ethelred.horacio.hughescunningham.mil@mail.mil",
+    "password": "0K8VwNCt",
+    "homePhone": "(335) 466-6106",
+    "cellPhone": "(812) 236-6802",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": "Base",
+        "name": "Fort Belvoir",
+        "address1": "685 Janot Keys",
+        "address2": null,
+        "city": "Ashburn",
+        "state": "VA",
+        "postalCode": "20148"
+      },
+      "sub": [
+        {
+          "name": "ARCYBER",
+          "type": "Command",
+          "nick": null,
+          "hq": "Fort Belvoir",
+          "sub": [
+            {
+              "name": "Cyber Protection Brigade",
+              "type": "Brigade",
+              "nick": null,
+              "hq": null,
+              "sub": [
+                {
+                  "name": "186th Cyber Protection Team",
+                  "type": "Team",
+                  "nick": null,
+                  "hq": null,
+                  "sub": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USARMY",
+      "pay": "E-4",
+      "name": "Corporal",
+      "abbr": "CPL",
+      "classification": "Noncommissioned Officer",
+      "billet": null,
+      "mos": "Multiple Launch Rocket System (Mlrs)/High Mobility Artillery Rocket System (Himars) Crewmember",
+      "mosid": "13M",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Chicago High School",
+            "location": "Chicago, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Warbucks Industries",
+          "startDate": "2015-11-18T23:48:00.4768795+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "Warbucks Industries",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 41201,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@WarbucksIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Warbucks Industries",
+            "address1": "795 Forslund Glen",
+            "address2": null,
+            "city": "Mechanicsville",
+            "state": "Virginia",
+            "postalCode": "23111"
+          },
+          "phone": "(798) 333-0866 x1546",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Cyberdyne Systems Corp.",
+          "startDate": "2010-03-06T20:36:00.4781812+00:00",
+          "endDate": "2027-10-31T18:41:00.4779765+00:00",
+          "department": "Administration",
+          "organization": "Cyberdyne Systems Corp.",
+          "jobTitle": "Admin Support I",
+          "level": 1,
+          "salary": 35963,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@CyberdyneSystemsCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Cyberdyne Systems Corp.",
+            "address1": "953 Nowlin Groves",
+            "address2": null,
+            "city": "Modesto",
+            "state": "California",
+            "postalCode": "95351"
+          },
+          "phone": "(750) 669-0107 x1722",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Very Big Corp. of America",
+          "startDate": "2007-10-11T15:10:00.4793701+00:00",
+          "endDate": "2018-12-18T14:41:00.479192+00:00",
+          "department": "Administration",
+          "organization": "Very Big Corp. of America",
+          "jobTitle": "Admin Support II",
+          "level": 2,
+          "salary": 43599,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@VeryBigCorp.ofAmerica.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Very Big Corp. of America",
+            "address1": "217 Merrick Ford",
+            "address2": null,
+            "city": "Birnamwood",
+            "state": "Wisconsin",
+            "postalCode": "54414"
+          },
+          "phone": "(592) 448-3322 x8283",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Frobozz Magic Co.",
+          "startDate": "2017-12-22T14:35:00.479853+00:00",
+          "endDate": "2020-06-08T18:05:00.4796354+00:00",
+          "department": "Administration",
+          "organization": "Frobozz Magic Co.",
+          "jobTitle": "Admin Support I",
+          "level": 1,
+          "salary": 38919,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@FrobozzMagicCo.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Frobozz Magic Co.",
+            "address1": "637 Biage Junctions",
+            "address2": null,
+            "city": "Voorhees",
+            "state": "New Jersey",
+            "postalCode": "08043"
+          },
+          "phone": "(693) 651-9950 x1736",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Wonka Industries",
+          "startDate": "2024-11-17T11:28:00.4810661+00:00",
+          "endDate": "2012-12-16T00:26:00.4808756+00:00",
+          "department": "Finance",
+          "organization": "Wonka Industries",
+          "jobTitle": "Accountant IV",
+          "level": 4,
+          "salary": 81968,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@WonkaIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wonka Industries",
+            "address1": "477 Hannibal Ville",
+            "address2": null,
+            "city": "Montclair",
+            "state": "California",
+            "postalCode": "91763"
+          },
+          "phone": "(398) 160-8267 x6690",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Wonka Industries",
+          "startDate": "2007-08-21T18:43:00.4814676+00:00",
+          "endDate": "2025-08-26T04:21:00.4812795+00:00",
+          "department": "Administration",
+          "organization": "Wonka Industries",
+          "jobTitle": "Admin Support II",
+          "level": 2,
+          "salary": 47046,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@WonkaIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wonka Industries",
+            "address1": "676 Robbie Expressway",
+            "address2": null,
+            "city": "Knoxville",
+            "state": "Tennessee",
+            "postalCode": "37922"
+          },
+          "phone": "(217) 454-6506 x4886",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2017-07-01T23:55:00.4818837+00:00",
+          "endDate": "2017-03-28T13:08:00.4817075+00:00",
+          "department": "Human Resources",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Human Resources II",
+          "level": 2,
+          "salary": 55310,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EthelredHoracioHughesCunningham@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "330 Sims Motorway",
+            "address2": null,
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "postalCode": "87198"
+          },
+          "phone": "(141) 998-2661 x9511",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "1990-07-01T01:50:00.4667326+00:00",
+    "health": {
+      "height": 71,
+      "weight": 170,
+      "bloodType": "A+",
+      "preferredMeal": "Non-lactose",
+      "medicalConditions": [
+        {
+          "name": "Hypertriglyceridemia",
+          "prescriptions": [
+            {
+              "name": "Fibrates"
+            },
+            {
+              "name": "Gemfibrozil"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Basic tools (hammer, screwdrivers, pliers, wrench, crowbar),Cooking tools"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Noelyn",
+            "middle": "Miles",
+            "last": "Clouthier",
+            "suffix": null
+          },
+          "relationship": "Sibling"
+        },
+        {
+          "name": {
+            "prefix": "Miss",
+            "first": "Nevsa",
+            "middle": null,
+            "last": "Koren",
+            "suffix": null
+          },
+          "relationship": "Sibling"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Daisi",
+            "middle": "Osbourne",
+            "last": "Hinkel",
+            "suffix": null
+          },
+          "relationship": "Child"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 54069,
+      "totalDebt": 14434,
+      "creditCards": [
+        {
+          "number": "5293103336459778",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 32,
+      "adherenceToPolicy": 67,
+      "enthusiasmAndAttitude": 56,
+      "openToFeedback": 34,
+      "generalPerformance": 11,
+      "overallPerformance": 95,
+      "iq": 94,
+      "spideySense": 49,
+      "senseSomethingIsWrongQuotient": 87,
+      "happyQuotient": 90,
+      "melancholyQuotient": 51
+    },
+    "foreignTravel": {
+      "trips": []
+    },
+    "career": {
+      "workEthic": 24,
+      "teamValue": 20,
+      "strengths": [],
+      "weaknesses": [
+        {
+          "name": "Being too detail-oriented"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-37.local",
+      "domain": "sivajihupe.mil",
+      "username": "ethelred.horacio.hughes-cunningham",
+      "password": "w<GPi%hB",
+      "ipAddress": "192.168.144.157"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Other Psychiatric Or Psychological Condition",
+            "correctiveAction": null,
+            "reportedBy": "Bertrand Jasrotia",
+            "reported": "2007-03-04T17:29:00.9379277+00:00"
+          }
+        ]
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Human Resource Complaint",
+            "correctiveAction": null,
+            "reportedBy": "Germaine Carruthers",
+            "reported": "2006-06-22T03:46:00.9391872+00:00"
+          }
+        ]
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2016-12-11T18:00:00.9410227+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "ethelredhoraciohughescunningham9133",
+        "password": "{CuX{zRM"
+      },
+      {
+        "id": 0,
+        "url": "openvpn",
+        "username": "firsttimeferanythin",
+        "password": "DRbzPk.$"
+      },
+      {
+        "id": 0,
+        "url": "GitHub",
+        "username": "ethelredhoraciohughesc6351",
+        "password": "xmy]G!xI"
+      },
+      {
+        "id": 0,
+        "url": "Telegram",
+        "username": "Astralima",
+        "password": "G}j_x)Uh"
+      },
+      {
+        "id": 0,
+        "url": "Facebook",
+        "username": "britinsnoww",
+        "password": "Z*8]+m^X"
+      },
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "ethelredhoraciohughescun",
+        "password": "VJeQ&$;y"
+      },
+      {
+        "id": 0,
+        "url": "Youtube",
+        "username": "ethe2289",
+        "password": "/0IAl&8}"
+      },
+      {
+        "id": 0,
+        "url": "Twitter",
+        "username": "ethelredhoraciohughescunningham6327",
+        "password": "lR_zy?1D"
+      },
+      {
+        "id": 0,
+        "url": "Telegram",
+        "username": "ethelredhoraciohughescunn",
+        "password": "kak@SOkR"
+      },
+      {
+        "id": 0,
+        "url": "GitHub",
+        "username": "QuiltDaddy420",
+        "password": "9XoA:&+Q"
+      },
+      {
+        "id": 0,
+        "url": "QQ",
+        "username": "ethelredhoraciohughesc2232",
+        "password": "#3KW(1yO"
+      },
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "ethelredh1635",
+        "password": "fb>+r>Ek"
+      },
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "ethelredhoraciohughescunning8543",
+        "password": "8^ur<xMd"
+      },
+      {
+        "id": 0,
+        "url": "http://prestonthomasbrownridge.info",
+        "username": "gym757",
+        "password": "_JM3M&bd"
+      },
+      {
+        "id": 0,
+        "url": "http://annable.uk",
+        "username": "ethelredhoraciohughescunningham5219",
+        "password": "i%(}dj1i"
+      },
+      {
+        "id": 0,
+        "url": "http://wilderman.co.uk",
+        "username": "ethelredhoraciohughescunningham736",
+        "password": "MMhd6:gq"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 1.2766048128739818,
+      "beauty": -1.7324064574659417,
+      "curiosity": -1.7707297601514234,
+      "eating": -1.7237941936992405,
+      "family": -0.33911365714457675,
+      "honor": 0.439589499103787,
+      "idealism": -1.5849899179454363,
+      "independence": -1.9356450663372224,
+      "order": 0.020151759605783415,
+      "physicalActivity": -1.7434014662160688,
+      "power": -0.8288604206055048,
+      "saving": -0.9406695782979151,
+      "socialContact": -1.8000297008251587,
+      "status": 1.0184746401013869,
+      "tranquility": -1.2671482681722135,
+      "vengeance": -1.8162306320635673
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/181.jpg",
+    "created": "2025-07-10T05:50:00.4544471Z"
+  }
+}

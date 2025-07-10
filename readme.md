@@ -1,22 +1,11 @@
-# Project Title
+# Red Team Personas CF25
 
-A concise description of what this project does and who it's for.
+- mock personas are populated by day
 
----
+- still figuring out how to connect client to server (assmuing JV will take care of this if he is configuring virtual machines on AWS)
+- - JV, you should hopefully be able to download each persona (json) file and upload to respective client
 
-## Table of Contents
+## Questions
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
+- do we need to make timelines for each persona?
+- how do we connect the data source (client) to grafana (frontend server)?

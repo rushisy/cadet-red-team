@@ -1,0 +1,487 @@
+{
+  "id": "7b4d26d3-5506-447f-af23-c463af8f6ca4",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day1",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "7b4d26d3-5506-447f-af23-c463af8f6ca4",
+    "name": {
+      "prefix": null,
+      "first": "Chadwick",
+      "middle": null,
+      "last": "DeFazio",
+      "suffix": "III"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "415 Klee Spurs",
+        "address2": null,
+        "city": "Taylorsville",
+        "state": "North Carolina",
+        "postalCode": "28681"
+      }
+    ],
+    "email": "chadwick.defazio.mil@mail.mil",
+    "password": "fY$,IY+<",
+    "homePhone": "(773) 030-5734",
+    "cellPhone": "(403) 551-8661",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "175th Cyberspace Operations Group",
+          "type": "Group",
+          "nick": null,
+          "hq": null,
+          "sub": [
+            {
+              "name": "275th Cyberspace Operations Squadron",
+              "type": "Squadron",
+              "nick": null,
+              "hq": null,
+              "sub": []
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USAF",
+      "pay": "E-4",
+      "name": "Senior Airman",
+      "abbr": "SrA",
+      "classification": "Enlisted Airman",
+      "billet": null,
+      "mos": "Paralegal",
+      "mosid": "5J",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Bachelors",
+          "degreeType": "B.S.",
+          "major": "Clinical and Industrial Drug Development",
+          "school": {
+            "name": "University of Idaho",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "MomCorp",
+          "startDate": "2025-03-13T03:21:54.8102802+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "MomCorp",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 49074,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ChadwickDeFazio@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "335 Nils Center",
+            "address2": null,
+            "city": "Randolph",
+            "state": "Massachusetts",
+            "postalCode": "02368"
+          },
+          "phone": "(339) 781-8566 x2603",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Virtucon",
+          "startDate": "2005-08-24T15:52:54.8107134+00:00",
+          "endDate": "2012-10-27T04:24:54.8105265+00:00",
+          "department": "Finance",
+          "organization": "Virtucon",
+          "jobTitle": "Accountant IV",
+          "level": 4,
+          "salary": 76026,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ChadwickDeFazio@Virtucon.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Virtucon",
+            "address1": "400 Hezekiah Cliff",
+            "address2": null,
+            "city": "Ada",
+            "state": "Oklahoma",
+            "postalCode": "74820"
+          },
+          "phone": "(705) 065-6397 x3640",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "MomCorp",
+          "startDate": "2010-06-14T01:45:54.8111111+00:00",
+          "endDate": "2012-10-28T07:12:54.81094+00:00",
+          "department": "Corporate Research",
+          "organization": "MomCorp",
+          "jobTitle": "Research  Analyst II",
+          "level": 2,
+          "salary": 67787,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ChadwickDeFazio@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "018 Forghani Terrace",
+            "address2": null,
+            "city": "Gilbert",
+            "state": "Arizona",
+            "postalCode": "85234"
+          },
+          "phone": "(973) 762-9142 x7102",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Acme Corp.",
+          "startDate": "2019-10-22T23:37:54.8122846+00:00",
+          "endDate": "2006-12-25T21:49:54.8120588+00:00",
+          "department": "Purchasing",
+          "organization": "Acme Corp.",
+          "jobTitle": "Buyer III,",
+          "level": 5,
+          "salary": 59879,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ChadwickDeFazio@AcmeCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Acme Corp.",
+            "address1": "009 Eaton Station",
+            "address2": null,
+            "city": "Durango",
+            "state": "Colorado",
+            "postalCode": "81301"
+          },
+          "phone": "(432) 572-6629 x7491",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2008-09-08T12:18:54.8134043+00:00",
+          "endDate": "2017-01-07T01:25:54.8132365+00:00",
+          "department": "Finance",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Financial  Officer II",
+          "level": 5,
+          "salary": 118981,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ChadwickDeFazio@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "998 Thacher Manor",
+            "address2": null,
+            "city": "West Roxbury",
+            "state": "Massachusetts",
+            "postalCode": "02132"
+          },
+          "phone": "(601) 325-2795 x4105",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Rich Industries",
+          "startDate": "2022-11-21T14:21:54.8137949+00:00",
+          "endDate": "2022-05-31T21:52:54.8136317+00:00",
+          "department": "Purchasing",
+          "organization": "Rich Industries",
+          "jobTitle": "Buyer I",
+          "level": 3,
+          "salary": 37377,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ChadwickDeFazio@RichIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Rich Industries",
+            "address1": "844 Mitch Canyon",
+            "address2": null,
+            "city": "Phoenix",
+            "state": "Arizona",
+            "postalCode": "85016"
+          },
+          "phone": "(166) 137-8735 x6839",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "1989-06-23T16:48:54.8051506+00:00",
+    "health": {
+      "height": 69,
+      "weight": 182,
+      "bloodType": "A-",
+      "preferredMeal": "Religious diet",
+      "medicalConditions": [
+        {
+          "name": "Ear Infections (Otitis Media)",
+          "prescriptions": [
+            {
+              "name": "Antibiotics for Otitis Media"
+            },
+            {
+              "name": "Antibacterials (Otic)"
+            },
+            {
+              "name": "Anti-Inflammatory Drugs, Steroidal (Otic)"
+            },
+            {
+              "name": "Antipyrine"
+            },
+            {
+              "name": "Phenylephrine"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Alcohol swabs"
+    },
+    "relationships": [],
+    "family": {
+      "members": []
+    },
+    "finances": {
+      "netWorth": 1340,
+      "totalDebt": 31443,
+      "creditCards": [
+        {
+          "number": "4556133060858916",
+          "type": "Visa"
+        },
+        {
+          "number": "4929519574653951",
+          "type": "Visa"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 80,
+      "adherenceToPolicy": 31,
+      "enthusiasmAndAttitude": 80,
+      "openToFeedback": 47,
+      "generalPerformance": 28,
+      "overallPerformance": 48,
+      "iq": 104,
+      "spideySense": 90,
+      "senseSomethingIsWrongQuotient": 53,
+      "happyQuotient": 23,
+      "melancholyQuotient": 55
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Estreito, Brazil",
+          "arriveDestination": "2011-07-10T11:59:11.8142277+00:00",
+          "departDestination": "2011-07-21T03:06:16.8142277+00:00"
+        },
+        {
+          "code": "DE",
+          "country": "Germany",
+          "destination": "Bayreuth, Germany",
+          "arriveDestination": "2017-07-12T11:11:52.8573849+00:00",
+          "departDestination": "2017-07-23T13:27:58.8573849+00:00"
+        },
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Iguape, Brazil",
+          "arriveDestination": "2013-07-11T22:28:42.9011917+00:00",
+          "departDestination": "2013-07-15T01:02:14.9011917+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 11,
+      "teamValue": 49,
+      "strengths": [
+        {
+          "name": "Good Communicator"
+        },
+        {
+          "name": "MS Office"
+        },
+        {
+          "name": "Sales Funnel Management"
+        },
+        {
+          "name": "Reducing Customer Acquisition Cost (CAC)"
+        },
+        {
+          "name": "Typography"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Expressing too much frustration with under performing staff or colleagues"
+        },
+        {
+          "name": "Creativity"
+        },
+        {
+          "name": "Being too honest"
+        },
+        {
+          "name": "Being too detail-oriented"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-58.local",
+      "domain": "bashyammalhi.mil",
+      "username": "chadwick.defazio",
+      "password": "hdjrE!%)",
+      "ipAddress": "192.168.5.210"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "TS",
+        "physicalAccess": "SAP",
+        "systemsAccess": "JWICS",
+        "isDoDSystemsPrivilegedUser": true,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "Yes"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Weapon Mishandling",
+            "correctiveAction": null,
+            "reportedBy": "Giuseppe Tobias Ivett",
+            "reported": "2008-04-16T08:58:55.0548347+00:00"
+          }
+        ]
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Delinquent debts",
+            "correctiveAction": null,
+            "reportedBy": "Lyle Datta",
+            "reported": "2012-10-10T00:33:55.0562432+00:00"
+          }
+        ]
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Financial Hardship",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2013-05-27T09:43:55.0574182+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": true
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "chadwickde6107",
+        "password": "lUcd,PpD"
+      },
+      {
+        "id": 0,
+        "url": "Google Hangouts",
+        "username": "chadwi",
+        "password": "Y|BtwDJ*"
+      },
+      {
+        "id": 0,
+        "url": "http://vafaie.biz",
+        "username": "Annabellasimone",
+        "password": "KJ4LOVqb"
+      },
+      {
+        "id": 0,
+        "url": "http://piercy.com",
+        "username": "chadwic4749",
+        "password": "3Zpvv*r/"
+      },
+      {
+        "id": 0,
+        "url": "http://nokes.co.uk",
+        "username": "chadwickdefa",
+        "password": "b2<jHxC4"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 1.2873930061751349,
+      "beauty": -0.24603188928704967,
+      "curiosity": -0.5922835235241406,
+      "eating": -1.1705890052244485,
+      "family": 0.8875823674979033,
+      "honor": -0.7431855341100158,
+      "idealism": -1.9672589033743315,
+      "independence": 1.3573145092474554,
+      "order": -0.5936604112724568,
+      "physicalActivity": 0.5438341628224168,
+      "power": -0.036241128327470395,
+      "saving": 0.6619881015069611,
+      "socialContact": -1.076331344914676,
+      "status": -0.6490061206091764,
+      "tranquility": 1.484118565238902,
+      "vengeance": 0.925145648334381
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/193.jpg",
+    "created": "2025-07-10T05:48:54.7997742Z"
+  }
+}

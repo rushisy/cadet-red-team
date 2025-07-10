@@ -1,0 +1,460 @@
+{
+  "id": "15b1a488-0aa5-4bc8-9fad-06263d8de386",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day1",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "15b1a488-0aa5-4bc8-9fad-06263d8de386",
+    "name": {
+      "prefix": "Miss",
+      "first": "Osmond",
+      "middle": null,
+      "last": "Katcher",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "252 Allie Ridges",
+        "address2": null,
+        "city": "Fort Lauderdale",
+        "state": "Florida",
+        "postalCode": "33319"
+      }
+    ],
+    "email": "osmond.katcher.mil@mail.mil",
+    "password": "VdD:9^2.",
+    "homePhone": "(003) 366-3318",
+    "cellPhone": "(848) 737-7354",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "U.S. Coast Guard Office of Cyberspace Forces",
+          "type": "Command",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USCG",
+      "pay": "E-7",
+      "name": "Chief Petty Officer",
+      "abbr": "CPO",
+      "classification": "Chief Petty Officer",
+      "billet": null,
+      "mos": "Public Affairs Specialist",
+      "mosid": "PA",
+      "probability": 0.014385
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Associates",
+          "degreeType": "A.B.A.",
+          "major": "Public Policy Analysis",
+          "school": {
+            "name": "Hall County Community College",
+            "location": "USA"
+          }
+        },
+        {
+          "level": "Bachelors",
+          "degreeType": "B.S.",
+          "major": "Neurobiology and Behavior",
+          "school": {
+            "name": "University of Nebraska Medical Center",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Frobozz Magic Co.",
+          "startDate": "2013-11-21T17:10:53.6770637+00:00",
+          "endDate": null,
+          "department": "Purchasing",
+          "organization": "Frobozz Magic Co.",
+          "jobTitle": "Buyer III,",
+          "level": 5,
+          "salary": 52813,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "OsmondKatcher@FrobozzMagicCo.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Frobozz Magic Co.",
+            "address1": "590 Fletch Junction",
+            "address2": null,
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "postalCode": "55443"
+          },
+          "phone": "(106) 895-1792 x6439",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Frobozz Magic Co.",
+          "startDate": "2020-10-17T13:59:53.6778291+00:00",
+          "endDate": "2017-09-29T21:36:53.6775924+00:00",
+          "department": "IT",
+          "organization": "Frobozz Magic Co.",
+          "jobTitle": "Systems Analyst II",
+          "level": 2,
+          "salary": 50403,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "OsmondKatcher@FrobozzMagicCo.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Frobozz Magic Co.",
+            "address1": "170 Auld Underpass",
+            "address2": null,
+            "city": "New Orleans",
+            "state": "Louisiana",
+            "postalCode": "70128"
+          },
+          "phone": "(785) 173-8737 x8279",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "1982-08-22T00:48:53.6690009+00:00",
+    "health": {
+      "height": 71,
+      "weight": 192,
+      "bloodType": "A+",
+      "preferredMeal": "Religious diet",
+      "medicalConditions": [
+        {
+          "name": "Constipation",
+          "prescriptions": [
+            {
+              "name": "Laxatives, Bulk-Forming (Psyllium)"
+            },
+            {
+              "name": "Laxatives, Osmotic (Lactulose)"
+            },
+            {
+              "name": "Laxatives, Softener/Lubricant"
+            },
+            {
+              "name": "Laxatives, Stimulant (Senna, Bisacodyl, Cascara Sagrada)"
+            },
+            {
+              "name": "Lubiprostone, Linaclotide"
+            },
+            {
+              "name": "Tegaserod"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Rain gear,Latex gloves, face masks"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Corrianne",
+            "middle": "Eugene",
+            "last": "Scourneau",
+            "suffix": null
+          },
+          "relationship": "Parent"
+        },
+        {
+          "name": {
+            "prefix": "Mr.",
+            "first": "Morgen",
+            "middle": null,
+            "last": "Botting",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 99550,
+      "totalDebt": 73375,
+      "creditCards": [
+        {
+          "number": "3013519473356598",
+          "type": "DinersClub"
+        },
+        {
+          "number": "5211757217324150",
+          "type": "MasterCard"
+        },
+        {
+          "number": "5294700459230255",
+          "type": "MasterCard"
+        },
+        {
+          "number": "3016193679586981",
+          "type": "DinersClub"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 78,
+      "adherenceToPolicy": 13,
+      "enthusiasmAndAttitude": 5,
+      "openToFeedback": 27,
+      "generalPerformance": 32,
+      "overallPerformance": 10,
+      "iq": 87,
+      "spideySense": 61,
+      "senseSomethingIsWrongQuotient": 12,
+      "happyQuotient": 72,
+      "melancholyQuotient": 21
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "PK",
+          "country": "Pakistan",
+          "destination": "Loralai, Pakistan",
+          "arriveDestination": "2016-07-11T23:15:48.6838452+00:00",
+          "departDestination": "2016-07-23T05:51:29.6838452+00:00"
+        },
+        {
+          "code": "UZ",
+          "country": "Uzbekistan",
+          "destination": "Chelak, Uzbekistan",
+          "arriveDestination": "2016-07-12T20:13:01.7317678+00:00",
+          "departDestination": "2016-07-23T16:19:24.7317678+00:00"
+        },
+        {
+          "code": "DZ",
+          "country": "Algeria",
+          "destination": "Aïn Taya, Algeria",
+          "arriveDestination": "2013-07-11T02:42:02.7807216+00:00",
+          "departDestination": "2013-07-14T09:07:16.7807216+00:00"
+        },
+        {
+          "code": "FR",
+          "country": "France",
+          "destination": "Neuilly-Plaisance, France",
+          "arriveDestination": "2013-07-10T15:40:59.8321057+00:00",
+          "departDestination": "2013-07-28T22:34:41.8321057+00:00"
+        },
+        {
+          "code": "MM",
+          "country": "Myanmar",
+          "destination": "Pyay, Myanmar",
+          "arriveDestination": "2010-07-12T17:46:45.8925732+00:00",
+          "departDestination": "2010-07-24T13:49:34.8925732+00:00"
+        },
+        {
+          "code": "IO",
+          "country": "India",
+          "destination": "Hatta, India",
+          "arriveDestination": "2013-07-10T23:41:52.9364282+00:00",
+          "departDestination": "2013-07-22T14:50:06.9364282+00:00"
+        },
+        {
+          "code": "",
+          "country": "Laos",
+          "destination": "Savannakhét, Laos",
+          "arriveDestination": "2005-07-10T09:22:00.978883+00:00",
+          "departDestination": "2005-07-29T20:20:15.978883+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 3,
+      "teamValue": 41,
+      "strengths": [
+        {
+          "name": "Product Knowledge"
+        },
+        {
+          "name": "Problem-solver"
+        },
+        {
+          "name": "Answering Phones"
+        },
+        {
+          "name": "Cloud Management"
+        },
+        {
+          "name": "Data Visualization"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Expressing too much frustration with under performing staff or colleagues"
+        },
+        {
+          "name": "Being too honest"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-41.local",
+      "domain": "cutrufellocomtois.mil",
+      "username": "osmond.katcher",
+      "password": "s||jDY(T",
+      "ipAddress": "192.168.72.82"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Past Untruthfulness Including Voluntary Admission Including During Polygraph Or Investigation",
+            "correctiveAction": null,
+            "reportedBy": "Victor McPhaden",
+            "reported": "2017-01-19T15:25:54.2588445+00:00"
+          }
+        ]
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Delinquent Government Travel Charge Card",
+            "correctiveAction": "Termination",
+            "reportedBy": "Merrel Hu",
+            "reported": "2020-06-23T11:49:54.2673854+00:00"
+          }
+        ]
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee was hostile towards coworker",
+            "correctiveAction": "Pay Garnishment",
+            "reportedBy": "Bernardo Whitfield",
+            "reported": "2024-05-05T05:05:54.2686141+00:00"
+          }
+        ]
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2022-05-07T11:18:54.2698122+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "osmondkatcher4237",
+        "password": "Lc?Pyc^<"
+      },
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "aaa_qaaaa_a",
+        "password": "U>&fFqz8"
+      },
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "osmondkat4892",
+        "password": "c0!DX}jf"
+      },
+      {
+        "id": 0,
+        "url": "http://tsakalis.co.uk",
+        "username": "Aipys",
+        "password": "q;n!!b7p"
+      },
+      {
+        "id": 0,
+        "url": "http://gorton.uk",
+        "username": "osmondkatche9555",
+        "password": "WRuD%cuI"
+      },
+      {
+        "id": 0,
+        "url": "http://tiller.info",
+        "username": "osmondkatch1240",
+        "password": "O?fZ)}T{"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 0.29637880044945053,
+      "beauty": 0.6550681806072598,
+      "curiosity": -0.397714586470725,
+      "eating": -1.3297178068370306,
+      "family": 1.5030827021844986,
+      "honor": 0.2768288130661287,
+      "idealism": -1.8848917951172646,
+      "independence": 1.4401546655282593,
+      "order": 0.9937953722912365,
+      "physicalActivity": -0.9264802709711928,
+      "power": 0.031529167584850804,
+      "saving": -1.0115637833020386,
+      "socialContact": 0.7276013732603679,
+      "status": -1.7652558304667183,
+      "tranquility": -0.8988397113566333,
+      "vengeance": -0.5133737105135778
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/188.jpg",
+    "created": "2025-07-10T05:48:53.6612546Z"
+  }
+}

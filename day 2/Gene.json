@@ -1,0 +1,531 @@
+{
+  "id": "4e8396a0-756a-4d5f-aafc-24338419fae4",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day2",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "4e8396a0-756a-4d5f-aafc-24338419fae4",
+    "name": {
+      "prefix": "Miss",
+      "first": "Gene",
+      "middle": null,
+      "last": "Switzer",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "425 Waldon Garden",
+        "address2": null,
+        "city": "Wilmington",
+        "state": "Delaware",
+        "postalCode": "19808"
+      }
+    ],
+    "email": "gene.switzer.mil@mail.mil",
+    "password": "Q0,/n67d",
+    "homePhone": "(088) 432-6640",
+    "cellPhone": "(214) 797-5005",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "140th Cyberspace Operations Squadron",
+          "type": "Squadron",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USAF",
+      "pay": "E-4",
+      "name": "Senior Airman",
+      "abbr": "SrA",
+      "classification": "Enlisted Airman",
+      "billet": null,
+      "mos": "Special Investigations (OSI)",
+      "mosid": "7S",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Wilmington High School",
+            "location": "Wilmington, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Spacely Space Sprockets",
+          "startDate": "2015-03-20T20:41:21.4746526+00:00",
+          "endDate": null,
+          "department": "IT",
+          "organization": "Spacely Space Sprockets",
+          "jobTitle": "Systems Analyst III",
+          "level": 3,
+          "salary": 67628,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "GeneSwitzer@SpacelySpaceSprockets.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Spacely Space Sprockets",
+            "address1": "265 Hollis Tunnel",
+            "address2": null,
+            "city": "Plymouth",
+            "state": "Indiana",
+            "postalCode": "46563"
+          },
+          "phone": "(674) 553-5633 x1181",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "MomCorp",
+          "startDate": "2007-01-10T15:37:21.4750542+00:00",
+          "endDate": "2023-06-10T14:39:21.4748849+00:00",
+          "department": "Human Resources",
+          "organization": "MomCorp",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 43659,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "GeneSwitzer@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "465 Jean-Paul Causeway",
+            "address2": null,
+            "city": "Brandon",
+            "state": "Florida",
+            "postalCode": "33510"
+          },
+          "phone": "(670) 234-3596 x3290",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Frobozz Magic Co.",
+          "startDate": "2020-08-08T11:31:21.4754488+00:00",
+          "endDate": "2025-05-23T19:29:21.4752734+00:00",
+          "department": "Corporate Research",
+          "organization": "Frobozz Magic Co.",
+          "jobTitle": "Research  Analyst I",
+          "level": 1,
+          "salary": 49395,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "GeneSwitzer@FrobozzMagicCo.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Frobozz Magic Co.",
+            "address1": "257 McMann Light",
+            "address2": null,
+            "city": "Avon Lake",
+            "state": "Ohio",
+            "postalCode": "44012"
+          },
+          "phone": "(392) 708-6066 x5703",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Oceanic Airlines",
+          "startDate": "2013-03-15T02:29:21.4766848+00:00",
+          "endDate": "2013-09-13T14:10:21.4764962+00:00",
+          "department": "Human Resources",
+          "organization": "Oceanic Airlines",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 42707,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "GeneSwitzer@OceanicAirlines.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Oceanic Airlines",
+            "address1": "904 Byron Centers",
+            "address2": null,
+            "city": "Cranberry Twp",
+            "state": "Pennsylvania",
+            "postalCode": "16066"
+          },
+          "phone": "(641) 798-6406 x9133",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "MomCorp",
+          "startDate": "2010-03-12T09:45:21.4770782+00:00",
+          "endDate": "2014-10-29T09:57:21.4769083+00:00",
+          "department": "Administration",
+          "organization": "MomCorp",
+          "jobTitle": "Administrative Support V",
+          "level": 5,
+          "salary": 66146,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "GeneSwitzer@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "277 Horacio Manor",
+            "address2": null,
+            "city": "West Jordan",
+            "state": "Utah",
+            "postalCode": "84081"
+          },
+          "phone": "(489) 772-8174 x6047",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "1994-08-20T16:49:21.4696901+00:00",
+    "health": {
+      "height": 71,
+      "weight": 139,
+      "bloodType": "A+",
+      "preferredMeal": "Western cuisine",
+      "medicalConditions": [
+        {
+          "name": "Leukemia",
+          "prescriptions": [
+            {
+              "name": "Imatinib"
+            },
+            {
+              "name": "Thioguanine"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Cold weather clothing"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": "Ms.",
+            "first": "Lisha",
+            "middle": null,
+            "last": "Alleyne",
+            "suffix": null
+          },
+          "relationship": "Sibling"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 13066,
+      "totalDebt": 37420,
+      "creditCards": [
+        {
+          "number": "3013926178556671",
+          "type": "DinersClub"
+        },
+        {
+          "number": "5266238704362403",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 1,
+      "adherenceToPolicy": 13,
+      "enthusiasmAndAttitude": 6,
+      "openToFeedback": 49,
+      "generalPerformance": 13,
+      "overallPerformance": 94,
+      "iq": 106,
+      "spideySense": 87,
+      "senseSomethingIsWrongQuotient": 66,
+      "happyQuotient": 48,
+      "melancholyQuotient": 14
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Palmetto Bay, United States",
+          "arriveDestination": "2018-07-11T11:24:35.4790268+00:00",
+          "departDestination": "2018-07-30T18:11:38.4790268+00:00"
+        },
+        {
+          "code": "MZ",
+          "country": "Mozambique",
+          "destination": "António Enes, Mozambique",
+          "arriveDestination": "2017-07-10T22:05:12.5233852+00:00",
+          "departDestination": "2017-07-28T04:31:51.5233852+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Shorewood, United States",
+          "arriveDestination": "2023-07-12T14:21:19.5825713+00:00",
+          "departDestination": "2023-07-14T11:04:05.5825713+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Broomfield, United States",
+          "arriveDestination": "2010-07-11T15:21:31.6275691+00:00",
+          "departDestination": "2010-07-29T06:47:14.6275691+00:00"
+        },
+        {
+          "code": "",
+          "country": "South Korea",
+          "destination": "T’aebaek, South Korea",
+          "arriveDestination": "2018-07-11T19:14:15.6721077+00:00",
+          "departDestination": "2018-07-26T17:40:52.6721077+00:00"
+        },
+        {
+          "code": "IO",
+          "country": "India",
+          "destination": "Sardhana, India",
+          "arriveDestination": "2012-07-10T11:27:00.7265336+00:00",
+          "departDestination": "2012-07-15T00:20:10.7265336+00:00"
+        },
+        {
+          "code": "MX",
+          "country": "Mexico",
+          "destination": "Temapache, Mexico",
+          "arriveDestination": "2021-07-11T06:06:44.7687375+00:00",
+          "departDestination": "2021-07-13T08:45:15.7687375+00:00"
+        },
+        {
+          "code": "GB",
+          "country": "United Kingdom",
+          "destination": "Ripley, United Kingdom",
+          "arriveDestination": "2017-07-12T16:00:11.8107008+00:00",
+          "departDestination": "2017-07-23T17:10:43.8107008+00:00"
+        },
+        {
+          "code": "LT",
+          "country": "Lithuania",
+          "destination": "Radviliskis, Lithuania",
+          "arriveDestination": "2016-07-10T13:30:55.853183+00:00",
+          "departDestination": "2016-07-27T16:36:18.853183+00:00"
+        },
+        {
+          "code": "MT",
+          "country": "Malta",
+          "destination": "Żabbar, Malta",
+          "arriveDestination": "2010-07-12T14:06:22.8967938+00:00",
+          "departDestination": "2010-08-01T23:49:56.8967938+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 39,
+      "teamValue": 20,
+      "strengths": [
+        {
+          "name": "CodingJava Script"
+        },
+        {
+          "name": "QuickBooks"
+        },
+        {
+          "name": "CodingJava Script"
+        },
+        {
+          "name": "A/B Testing"
+        },
+        {
+          "name": "A/B Testing"
+        },
+        {
+          "name": "Open Source Experience"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Public speaking"
+        },
+        {
+          "name": "Donuts"
+        },
+        {
+          "name": "Leaving projects unfinished"
+        },
+        {
+          "name": "Being too critical of other people’s work"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-42.local",
+      "domain": "graufleugel.mil",
+      "username": "gene.switzer",
+      "password": "cTM;jq{!",
+      "ipAddress": "192.168.157.178"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Foreign business or political interest",
+            "correctiveAction": null,
+            "reportedBy": "Baily Lamarche",
+            "reported": "2021-09-01T13:51:22.341374+00:00"
+          }
+        ]
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Insanity Plea In A Criminal Case",
+            "correctiveAction": null,
+            "reportedBy": "Eliott Kristopher Sampaleanu",
+            "reported": "2019-09-25T23:29:22.3429095+00:00"
+          }
+        ]
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Reprimand by Superior",
+            "correctiveAction": null,
+            "reportedBy": "Graham Stach",
+            "reported": "2015-01-31T05:08:22.3449465+00:00"
+          }
+        ]
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Outside Employment Not In Accordance With Official Guidelines",
+            "correctiveAction": "Pay Garnishment",
+            "reportedBy": "Aron Redish",
+            "reported": "2021-01-21T14:43:22.3467824+00:00"
+          }
+        ]
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2015-02-19T20:28:22.3511165+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Medium",
+        "username": "virtiualj2",
+        "password": "B<43[P,D"
+      },
+      {
+        "id": 0,
+        "url": "Twitter",
+        "username": "gene9819",
+        "password": "g.5+hNW<"
+      },
+      {
+        "id": 0,
+        "url": "http://keehn.us",
+        "username": "Stormystyle",
+        "password": "i1p9lQ2g"
+      },
+      {
+        "id": 0,
+        "url": "http://glinski.com",
+        "username": "SneakySquidyHD",
+        "password": "tcC8lK7M"
+      },
+      {
+        "id": 0,
+        "url": "http://peoplesfiest.ca",
+        "username": "Slyguy1984",
+        "password": "%4Mi2[gH"
+      },
+      {
+        "id": 0,
+        "url": "http://marlingsayre.co.uk",
+        "username": "genesw7047",
+        "password": "7^nEWl07"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": -0.9512592867825616,
+      "beauty": 1.7991450828490239,
+      "curiosity": 0.3080497045941222,
+      "eating": -0.8953403720564679,
+      "family": 0.8472342697804445,
+      "honor": 0.24051519863952953,
+      "idealism": 0.5988671401937506,
+      "independence": 1.9896534168513735,
+      "order": 1.7480923401954414,
+      "physicalActivity": 0.2527353328670454,
+      "power": 0.23538420230029944,
+      "saving": 0.6358486923269195,
+      "socialContact": 0.42783043478675653,
+      "status": 0.5537348729083007,
+      "tranquility": 0.1032406507929462,
+      "vengeance": -1.3769395002742115
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/174.jpg",
+    "created": "2025-07-10T05:49:21.4644876Z"
+  }
+}

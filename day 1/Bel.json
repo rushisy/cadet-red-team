@@ -1,0 +1,466 @@
+{
+  "id": "d566804e-3aa9-4b74-99ea-74047c830fb4",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day1",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "d566804e-3aa9-4b74-99ea-74047c830fb4",
+    "name": {
+      "prefix": "Miss",
+      "first": "Bel",
+      "middle": null,
+      "last": "Unxlb",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "159 Shames Springs",
+        "address2": null,
+        "city": "Bellflower",
+        "state": "California",
+        "postalCode": "90706"
+      }
+    ],
+    "email": "bel.unxlb.mil@mail.mil",
+    "password": "HOO:>d(j",
+    "homePhone": "(475) 725-6110",
+    "cellPhone": "(631) 868-1682",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": "Base",
+        "name": "Pensacola Florida Military Bases",
+        "address1": "490 Gur-Arie Flat",
+        "address2": null,
+        "city": "Tampa",
+        "state": "FL",
+        "postalCode": "33611"
+      },
+      "sub": [
+        {
+          "name": "U.S. Fleet Cyber Command – Tenth Fleet",
+          "type": "Command",
+          "nick": null,
+          "hq": "Fort Meade",
+          "sub": [
+            {
+              "name": "Navy Information Operations Command Georgia (Task Force 1050)",
+              "type": "Command",
+              "nick": null,
+              "hq": null,
+              "sub": []
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USN",
+      "pay": "E-5",
+      "name": "Petty Officer Second Class",
+      "abbr": "PO2",
+      "classification": "Noncommissioned Officer",
+      "billet": "ALPO",
+      "mos": "Steelworker",
+      "mosid": "SW",
+      "probability": 0.0358438
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Associates",
+          "degreeType": "A.A.",
+          "major": "General Studies",
+          "school": {
+            "name": "Clay County Community College",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Globex",
+          "startDate": "2014-05-19T12:10:54.5400755+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "Globex",
+          "jobTitle": "Human Resources III",
+          "level": 3,
+          "salary": 79940,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "BelUnxlb@Globex.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Globex",
+            "address1": "886 Arda Tunnel",
+            "address2": null,
+            "city": "Washington",
+            "state": "District of Columbia",
+            "postalCode": "20010"
+          },
+          "phone": "(359) 279-6771 x2782",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Tyrell Corp.",
+          "startDate": "2006-01-10T13:52:54.5408249+00:00",
+          "endDate": "2020-05-31T05:06:54.5406085+00:00",
+          "department": "Administration",
+          "organization": "Tyrell Corp.",
+          "jobTitle": "Administrative Support IV",
+          "level": 4,
+          "salary": 59208,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "BelUnxlb@TyrellCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Tyrell Corp.",
+            "address1": "165 Essig Centers",
+            "address2": null,
+            "city": "Daly City",
+            "state": "California",
+            "postalCode": "94014"
+          },
+          "phone": "(176) 801-7918 x6664",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Spacely Space Sprockets",
+          "startDate": "2022-02-19T07:19:54.5421984+00:00",
+          "endDate": "2010-10-15T01:14:54.5420135+00:00",
+          "department": "Administration",
+          "organization": "Spacely Space Sprockets",
+          "jobTitle": "Admin Support III",
+          "level": 3,
+          "salary": 51318,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "BelUnxlb@SpacelySpaceSprockets.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Spacely Space Sprockets",
+            "address1": "710 Kata Place",
+            "address2": null,
+            "city": "Atlanta",
+            "state": "Georgia",
+            "postalCode": "30319"
+          },
+          "phone": "(954) 974-3032 x7561",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2014-10-31T20:18:54.5428407+00:00",
+          "endDate": "2029-05-30T17:54:54.5426223+00:00",
+          "department": "IT",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Systems Analyst I",
+          "level": 1,
+          "salary": 45442,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "BelUnxlb@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "267 Delila Ferry",
+            "address2": null,
+            "city": "Hookstown",
+            "state": "Pennsylvania",
+            "postalCode": "15050"
+          },
+          "phone": "(891) 035-8220 x7679",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Globex",
+          "startDate": "2019-10-24T04:17:54.5435079+00:00",
+          "endDate": "2018-08-14T18:15:54.5433148+00:00",
+          "department": "IT",
+          "organization": "Globex",
+          "jobTitle": "Systems Analyst I",
+          "level": 1,
+          "salary": 48338,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "BelUnxlb@Globex.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Globex",
+            "address1": "733 Gunter Vista",
+            "address2": null,
+            "city": "San Antonio",
+            "state": "Texas",
+            "postalCode": "78254"
+          },
+          "phone": "(226) 992-2406 x0015",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Female",
+    "birthdate": "1990-08-26T08:48:54.5335387+00:00",
+    "health": {
+      "height": 66,
+      "weight": 152,
+      "bloodType": "AB+",
+      "preferredMeal": "High fiber",
+      "medicalConditions": []
+    },
+    "attributes": {
+      "Supply_Needs": "Blankets"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": "Ms.",
+            "first": "Delbert",
+            "middle": null,
+            "last": "Giridharagopal",
+            "suffix": null
+          },
+          "relationship": "Parent"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Hamil",
+            "middle": "Mirabelle",
+            "last": "Maglione",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 87784,
+      "totalDebt": 56305,
+      "creditCards": [
+        {
+          "number": "3017536067024545",
+          "type": "DinersClub"
+        },
+        {
+          "number": "5107926542408148",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 54,
+      "adherenceToPolicy": 27,
+      "enthusiasmAndAttitude": 39,
+      "openToFeedback": 13,
+      "generalPerformance": 59,
+      "overallPerformance": 15,
+      "iq": 115,
+      "spideySense": 48,
+      "senseSomethingIsWrongQuotient": 53,
+      "happyQuotient": 45,
+      "melancholyQuotient": 74
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "NP",
+          "country": "Nepal",
+          "destination": "Bharatpur, Nepal",
+          "arriveDestination": "2013-07-10T19:36:58.5496562+00:00",
+          "departDestination": "2013-07-24T17:10:12.5496562+00:00"
+        },
+        {
+          "code": "DE",
+          "country": "Germany",
+          "destination": "Dessau, Germany",
+          "arriveDestination": "2015-07-10T12:52:19.5985108+00:00",
+          "departDestination": "2015-07-16T04:27:35.5985108+00:00"
+        },
+        {
+          "code": "JP",
+          "country": "Japan",
+          "destination": "Tsubame, Japan",
+          "arriveDestination": "2010-07-11T09:05:11.6546378+00:00",
+          "departDestination": "2010-07-19T02:15:30.6546378+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 4,
+      "teamValue": 9,
+      "strengths": [
+        {
+          "name": "Documentation Specialist"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Taking credit for group projects"
+        },
+        {
+          "name": "Taking too many risks"
+        },
+        {
+          "name": "Too easily internalizing the problems of clients"
+        },
+        {
+          "name": "Expecting too much from colleagues"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-27.local",
+      "domain": "tibischlachter.mil",
+      "username": "bel.unxlb",
+      "password": "ye|ylE4q",
+      "ipAddress": "192.168.172.230"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Failure to file tax returns",
+            "correctiveAction": null,
+            "reportedBy": "Shelly Orlando",
+            "reported": "2013-06-02T20:38:54.7932565+00:00"
+          }
+        ]
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Falsifying Data At Place Of Work",
+            "correctiveAction": "Suspended Without Pay",
+            "reportedBy": "Kathye Huszar",
+            "reported": "2020-04-11T19:01:54.7946445+00:00"
+          }
+        ]
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee kept old account credentials and used access without authorization",
+            "correctiveAction": "Verbal warning",
+            "reportedBy": "Annalyse Starkes",
+            "reported": "2024-01-04T05:02:54.7959357+00:00"
+          }
+        ]
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee stored files in a cloud storage service without permission",
+            "correctiveAction": "Verbal warning",
+            "reportedBy": "Jessamine Hayden",
+            "reported": "2024-04-28T20:35:54.7972152+00:00"
+          },
+          {
+            "id": 0,
+            "description": "Disruptive Behavior",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2013-02-16T06:38:54.7985294+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Signal",
+        "username": "belu3826",
+        "password": "vO30MeNA"
+      },
+      {
+        "id": 0,
+        "url": "Medium",
+        "username": "bel6178",
+        "password": ",c,DH_EN"
+      },
+      {
+        "id": 0,
+        "url": "QQ",
+        "username": "prolapsed_psyche",
+        "password": "DZknxySg"
+      },
+      {
+        "id": 0,
+        "url": "http://schepps.com",
+        "username": "belunxlb",
+        "password": "F9j%W@JO"
+      },
+      {
+        "id": 0,
+        "url": "http://horton.name",
+        "username": "b6620",
+        "password": "ZPaoH7L*"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": -0.04109945267065962,
+      "beauty": 1.6283875781942276,
+      "curiosity": -0.061471074210914356,
+      "eating": 0.6683408811242986,
+      "family": -1.0051671780248328,
+      "honor": -0.17948013250869943,
+      "idealism": -1.9743863303482994,
+      "independence": -0.20268689021447717,
+      "order": 0.5457453214541657,
+      "physicalActivity": -1.154179826644691,
+      "power": -0.026096881644789516,
+      "saving": -0.3598982513534943,
+      "socialContact": -1.206039714554346,
+      "status": 1.6082217550231968,
+      "tranquility": -0.694276425220095,
+      "vengeance": 1.1410539734608554
+    },
+    "cac": null,
+    "photoLink": "config/photos/female/fb881cca-6f26-41c7-8c33-5fa7cfe14a4a/197.jpg",
+    "created": "2025-07-10T05:48:54.5248668Z"
+  }
+}

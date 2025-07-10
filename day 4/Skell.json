@@ -1,0 +1,437 @@
+{
+  "id": "e31c8fe5-ac10-4ae1-84ae-da94581a04b2",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day4",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "e31c8fe5-ac10-4ae1-84ae-da94581a04b2",
+    "name": {
+      "prefix": null,
+      "first": "Skell",
+      "middle": null,
+      "last": "de Wilton",
+      "suffix": "IV"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "088 Njo Harbor",
+        "address2": null,
+        "city": "Conover",
+        "state": "North Carolina",
+        "postalCode": "28613"
+      }
+    ],
+    "email": "skell.de.wilton.mil@mail.mil",
+    "password": "i5l4Fw3$",
+    "homePhone": "(769) 437-8851",
+    "cellPhone": "(249) 030-5866",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": "Base",
+        "name": "Naval Postgraduate School",
+        "address1": "522 Serge Mountains",
+        "address2": null,
+        "city": "San Jose",
+        "state": "CA",
+        "postalCode": "95120"
+      },
+      "sub": [
+        {
+          "name": "U.S. Fleet Cyber Command – Tenth Fleet",
+          "type": "Command",
+          "nick": null,
+          "hq": "Fort Meade",
+          "sub": [
+            {
+              "name": "Navy Information Operations Command Texas (Task Force 1040)",
+              "type": "Command",
+              "nick": null,
+              "hq": null,
+              "sub": []
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USN",
+      "pay": "E-4",
+      "name": "Petty Officer Third Class",
+      "abbr": "PO3",
+      "classification": "Noncommissioned Officer",
+      "billet": "Aid Station Commodity",
+      "mos": "Cryptologic technician",
+      "mosid": "CT",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Conover High School",
+            "location": "Conover, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "MomCorp",
+          "startDate": "2025-05-15T09:38:00.9558363+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "MomCorp",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 40536,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "SkelldeWilton@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "013 Cadeau Mills",
+            "address2": null,
+            "city": "Zephyrhills",
+            "state": "Florida",
+            "postalCode": "33540"
+          },
+          "phone": "(878) 194-4856 x3258",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Rich Industries",
+          "startDate": "2007-01-04T17:43:00.9569871+00:00",
+          "endDate": "2010-12-16T06:33:00.9567944+00:00",
+          "department": "Administration",
+          "organization": "Rich Industries",
+          "jobTitle": "Admin Support I",
+          "level": 1,
+          "salary": 32211,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "SkelldeWilton@RichIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Rich Industries",
+            "address1": "767 Harvie Cape",
+            "address2": null,
+            "city": "Hammond",
+            "state": "Indiana",
+            "postalCode": "46327"
+          },
+          "phone": "(102) 501-5515 x2826",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Globex",
+          "startDate": "2011-04-29T12:06:00.957374+00:00",
+          "endDate": "2012-09-09T07:51:00.9572068+00:00",
+          "department": "Finance",
+          "organization": "Globex",
+          "jobTitle": "Accountant I",
+          "level": 1,
+          "salary": 35819,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "SkelldeWilton@Globex.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Globex",
+            "address1": "648 Gustav Port",
+            "address2": null,
+            "city": "Rochester",
+            "state": "New York",
+            "postalCode": "14610"
+          },
+          "phone": "(773) 377-7451 x6317",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Wonka Industries",
+          "startDate": "2006-01-21T18:18:00.957812+00:00",
+          "endDate": "2021-09-29T09:00:00.9576391+00:00",
+          "department": "Administration",
+          "organization": "Wonka Industries",
+          "jobTitle": "Admin Support I",
+          "level": 1,
+          "salary": 32576,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "SkelldeWilton@WonkaIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wonka Industries",
+            "address1": "242 Noddin Plains",
+            "address2": null,
+            "city": "Sun City",
+            "state": "Arizona",
+            "postalCode": "85351"
+          },
+          "phone": "(467) 354-0740 x2503",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Nakatomi Trading Corp.",
+          "startDate": "2007-09-21T04:25:00.9590059+00:00",
+          "endDate": "2013-12-21T21:44:00.9588152+00:00",
+          "department": "Administration",
+          "organization": "Nakatomi Trading Corp.",
+          "jobTitle": "Administrative Support IV",
+          "level": 4,
+          "salary": 55559,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "SkelldeWilton@NakatomiTradingCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Nakatomi Trading Corp.",
+            "address1": "649 Fox Forks",
+            "address2": null,
+            "city": "Arlington",
+            "state": "Texas",
+            "postalCode": "76010"
+          },
+          "phone": "(584) 101-8024 x9407",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "2003-08-12T19:50:00.9509914+00:00",
+    "health": {
+      "height": 72,
+      "weight": 197,
+      "bloodType": "A+",
+      "preferredMeal": "Halal",
+      "medicalConditions": [
+        {
+          "name": "Narcotic Withdrawal",
+          "prescriptions": [
+            {
+              "name": "Buprenorphine and Naloxone"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Bungee cords"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Winifred",
+            "middle": "Coleman",
+            "last": "Thornley",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 34770,
+      "totalDebt": 42821,
+      "creditCards": [
+        {
+          "number": "3006860074271441",
+          "type": "DinersClub"
+        },
+        {
+          "number": "3024034731346255",
+          "type": "DinersClub"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 49,
+      "adherenceToPolicy": 23,
+      "enthusiasmAndAttitude": 42,
+      "openToFeedback": 2,
+      "generalPerformance": 48,
+      "overallPerformance": 78,
+      "iq": 115,
+      "spideySense": 86,
+      "senseSomethingIsWrongQuotient": 21,
+      "happyQuotient": 15,
+      "melancholyQuotient": 66
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Mococa, Brazil",
+          "arriveDestination": "2015-07-10T16:37:15.9611324+00:00",
+          "departDestination": "2015-07-28T01:36:43.9611324+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Sterling, United States",
+          "arriveDestination": "2011-07-12T19:17:46.0059113+00:00",
+          "departDestination": "2011-08-01T12:49:38.0059113+00:00"
+        },
+        {
+          "code": "CN",
+          "country": "China",
+          "destination": "Enshi, China",
+          "arriveDestination": "2014-07-11T22:13:32.0587673+00:00",
+          "departDestination": "2014-07-14T11:43:51.0587673+00:00"
+        },
+        {
+          "code": "MA",
+          "country": "Morocco",
+          "destination": "Beni Mellal, Morocco",
+          "arriveDestination": "2016-07-11T05:44:31.101475+00:00",
+          "departDestination": "2016-07-19T04:23:46.101475+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 44,
+      "teamValue": 34,
+      "strengths": [
+        {
+          "name": "Email Automation"
+        },
+        {
+          "name": "Lead Qualification"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Shifting from one project to another (multitasking)"
+        },
+        {
+          "name": "Covering for co-workers"
+        },
+        {
+          "name": "Being too honest"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-51.local",
+      "domain": "wilkes.mil",
+      "username": "skell.de.wilton",
+      "password": "Cc/2fuZw",
+      "ipAddress": "192.168.79.139"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Failure to file tax returns",
+            "correctiveAction": null,
+            "reportedBy": "Kristian Banville",
+            "reported": "2023-11-12T16:29:01.2333777+00:00"
+          }
+        ]
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2016-04-25T17:46:01.2347047+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "GangstaOtter",
+        "password": "l<WH?QKX"
+      },
+      {
+        "id": 0,
+        "url": "http://alvarezderosa.biz",
+        "username": "skelldew4846",
+        "password": "::u6ENcY"
+      },
+      {
+        "id": 0,
+        "url": "http://daymondflowers.biz",
+        "username": "skelldewilto",
+        "password": "hnoP(Ac1"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 1.7006428030948264,
+      "beauty": 0.9500692063212295,
+      "curiosity": -0.047775276517799004,
+      "eating": -1.8301450133177064,
+      "family": -0.4583487516779101,
+      "honor": -1.6048212822652097,
+      "idealism": 0.8119475952710231,
+      "independence": -0.47114261498462273,
+      "order": -1.6574782674838415,
+      "physicalActivity": 0.9021146711278893,
+      "power": -1.3080308155589204,
+      "saving": 1.7335451963271664,
+      "socialContact": -0.048361079306392885,
+      "status": -1.8245961323474962,
+      "tranquility": 0.506100160558995,
+      "vengeance": -0.9710334760206867
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/182.jpg",
+    "created": "2025-07-10T05:50:00.9445545Z"
+  }
+}

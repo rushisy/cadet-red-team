@@ -1,0 +1,535 @@
+{
+  "id": "d78c0824-16de-403c-8a58-9d32102d888d",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day3",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "d78c0824-16de-403c-8a58-9d32102d888d",
+    "name": {
+      "prefix": null,
+      "first": "Emmalee",
+      "middle": null,
+      "last": "Medlock",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "197 Ginnifer Rest",
+        "address2": null,
+        "city": "Montgomery",
+        "state": "Illinois",
+        "postalCode": "60538"
+      }
+    ],
+    "email": "emmalee.medlock.mil@mail.mil",
+    "password": "rwP.+NV4",
+    "homePhone": "(510) 173-0248",
+    "cellPhone": "(579) 070-1744",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": "Base",
+        "name": "Fort Belvoir",
+        "address1": "993 Nikolai Via",
+        "address2": null,
+        "city": "Yorktown",
+        "state": "VA",
+        "postalCode": "23693"
+      },
+      "sub": [
+        {
+          "name": "ARCYBER",
+          "type": "Command",
+          "nick": null,
+          "hq": "Fort Belvoir",
+          "sub": [
+            {
+              "name": "91st Cyber Brigade",
+              "type": "Brigade",
+              "nick": null,
+              "hq": null,
+              "sub": [
+                {
+                  "name": "172nd Cyber Protection Team",
+                  "type": "Team",
+                  "nick": null,
+                  "hq": null,
+                  "sub": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USARMY",
+      "pay": "E-5",
+      "name": "Sergeant",
+      "abbr": "SGT",
+      "classification": "Noncommissioned Officer",
+      "billet": null,
+      "mos": "Chief Public Affairs Nco",
+      "mosid": "46Z",
+      "probability": 0.0358438
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Montgomery High School",
+            "location": "Montgomery, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Tyrell Corp.",
+          "startDate": "2024-01-03T10:38:41.0611972+00:00",
+          "endDate": null,
+          "department": "IT",
+          "organization": "Tyrell Corp.",
+          "jobTitle": "Systems Analyst II",
+          "level": 2,
+          "salary": 52413,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EmmaleeMedlock@TyrellCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Tyrell Corp.",
+            "address1": "259 Aile Field",
+            "address2": null,
+            "city": "Fayetteville",
+            "state": "North Carolina",
+            "postalCode": "28304"
+          },
+          "phone": "(477) 969-0297 x9357",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Very Big Corp. of America",
+          "startDate": "2024-01-30T03:24:41.0619333+00:00",
+          "endDate": "2012-08-05T14:38:41.0617126+00:00",
+          "department": "Corporate Research",
+          "organization": "Very Big Corp. of America",
+          "jobTitle": "Research  Analyst III",
+          "level": 3,
+          "salary": 103582,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EmmaleeMedlock@VeryBigCorp.ofAmerica.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Very Big Corp. of America",
+            "address1": "275 Hawryluk Valleys",
+            "address2": null,
+            "city": "Nebraska City",
+            "state": "Nebraska",
+            "postalCode": "68410"
+          },
+          "phone": "(323) 971-6276 x2983",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Frobozz Magic Co.",
+          "startDate": "2017-11-10T05:17:41.0633399+00:00",
+          "endDate": "2009-12-10T13:45:41.0631481+00:00",
+          "department": "IT",
+          "organization": "Frobozz Magic Co.",
+          "jobTitle": "Systems Analyst II",
+          "level": 2,
+          "salary": 51297,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "EmmaleeMedlock@FrobozzMagicCo.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Frobozz Magic Co.",
+            "address1": "123 Lavinia Trail",
+            "address2": null,
+            "city": "Franklin Square",
+            "state": "New York",
+            "postalCode": "11010"
+          },
+          "phone": "(521) 761-8313 x6731",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Female",
+    "birthdate": "1987-07-26T18:49:41.054395+00:00",
+    "health": {
+      "height": 66,
+      "weight": 158,
+      "bloodType": "A+",
+      "preferredMeal": "Low salt/sodium",
+      "medicalConditions": [
+        {
+          "name": "Cancer Of The Skin",
+          "prescriptions": [
+            {
+              "name": "Fluorouracil"
+            },
+            {
+              "name": "Masoprocol"
+            },
+            {
+              "name": "Mechlorethamine (Topical)"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Plastic freezer bags (to keep things dry)"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Sebastian",
+            "middle": null,
+            "last": "Contine",
+            "suffix": null
+          },
+          "relationship": "Child"
+        },
+        {
+          "name": {
+            "prefix": "Ms.",
+            "first": "Byram",
+            "middle": null,
+            "last": "Conley",
+            "suffix": null
+          },
+          "relationship": "Parent"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Cameron",
+            "middle": null,
+            "last": "Chiamvimonvat",
+            "suffix": "DVM"
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 56763,
+      "totalDebt": 29501,
+      "creditCards": [
+        {
+          "number": "5280394024236108",
+          "type": "MasterCard"
+        },
+        {
+          "number": "4929728888076037",
+          "type": "Visa"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 85,
+      "adherenceToPolicy": 64,
+      "enthusiasmAndAttitude": 76,
+      "openToFeedback": 14,
+      "generalPerformance": 22,
+      "overallPerformance": 91,
+      "iq": 121,
+      "spideySense": 97,
+      "senseSomethingIsWrongQuotient": 9,
+      "happyQuotient": 15,
+      "melancholyQuotient": 87
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "MX",
+          "country": "Mexico",
+          "destination": "Cadereyta, Mexico",
+          "arriveDestination": "2007-07-12T21:29:01.0700112+00:00",
+          "departDestination": "2007-07-25T10:40:48.0700112+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Pembroke Pines, United States",
+          "arriveDestination": "2013-07-10T18:07:43.1177874+00:00",
+          "departDestination": "2013-07-24T08:18:53.1177874+00:00"
+        },
+        {
+          "code": "PY",
+          "country": "Paraguay",
+          "destination": "Villarrica, Paraguay",
+          "arriveDestination": "2008-07-11T23:08:36.16646+00:00",
+          "departDestination": "2008-07-15T16:20:46.16646+00:00"
+        },
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Canindé, Brazil",
+          "arriveDestination": "2015-07-11T23:21:57.2207785+00:00",
+          "departDestination": "2015-07-30T06:47:26.2207785+00:00"
+        },
+        {
+          "code": "JP",
+          "country": "Japan",
+          "destination": "Takaoka, Japan",
+          "arriveDestination": "2019-07-11T06:56:34.2866471+00:00",
+          "departDestination": "2019-07-17T23:12:08.2866471+00:00"
+        },
+        {
+          "code": "ES",
+          "country": "Spain",
+          "destination": "Calahorra, Spain",
+          "arriveDestination": "2023-07-10T09:33:28.3309308+00:00",
+          "departDestination": "2023-07-30T05:06:07.3309308+00:00"
+        },
+        {
+          "code": "OM",
+          "country": "Oman",
+          "destination": "Sufālat Samā’il, Oman",
+          "arriveDestination": "2014-07-12T19:53:54.375404+00:00",
+          "departDestination": "2014-07-31T10:33:42.375404+00:00"
+        },
+        {
+          "code": "AR",
+          "country": "Argentina",
+          "destination": "Villa Regina, Argentina",
+          "arriveDestination": "2019-07-12T02:34:13.4196105+00:00",
+          "departDestination": "2019-07-17T18:34:54.4196105+00:00"
+        },
+        {
+          "code": "RO",
+          "country": "Romania",
+          "destination": "Gherla, Romania",
+          "arriveDestination": "2019-07-12T07:23:26.4637296+00:00",
+          "departDestination": "2019-07-15T19:25:34.4637296+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": -46,
+      "teamValue": 35,
+      "strengths": [
+        {
+          "name": "CAD"
+        },
+        {
+          "name": "Lean Manufacturing"
+        },
+        {
+          "name": "UX/UI"
+        },
+        {
+          "name": "Print Design"
+        },
+        {
+          "name": "Shipping"
+        },
+        {
+          "name": "Social Media Marketing and Paid Social Media Advertising"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Creativity"
+        },
+        {
+          "name": "Taking on too much responsibility"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-05.local",
+      "domain": "loadbuild.mil",
+      "username": "emmalee.medlock",
+      "password": "$k7$ONU:",
+      "ipAddress": "192.168.179.194"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "TS SCI",
+        "physicalAccess": "Secret-cleared spaces",
+        "systemsAccess": "SIPR",
+        "isDoDSystemsPrivilegedUser": true,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "Yes"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Parole Or Probation Or Violation Thereof",
+            "correctiveAction": null,
+            "reportedBy": "Ulrica Fixsen",
+            "reported": "2012-02-28T01:28:41.7203845+00:00"
+          }
+        ]
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Legal Substance Abuse Or Trafficking",
+            "correctiveAction": null,
+            "reportedBy": "Emiline Mote",
+            "reported": "2015-12-29T06:35:41.7219+00:00"
+          }
+        ]
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Policy Violation",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2007-03-16T22:31:41.723584+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": true
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "QQ",
+        "username": "emmaleemedloc3889",
+        "password": "t|Y$iTH>"
+      },
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "emmaleemedlock7862",
+        "password": "wP_W!u4@"
+      },
+      {
+        "id": 0,
+        "url": "gmail",
+        "username": "emmaleemedlock",
+        "password": "[JIDpt7@"
+      },
+      {
+        "id": 0,
+        "url": "Snapchat",
+        "username": "emmaleemedlo3341",
+        "password": "fl$X,z.*"
+      },
+      {
+        "id": 0,
+        "url": "TikTok",
+        "username": "musicaldolphin927",
+        "password": "@1QhmR/z"
+      },
+      {
+        "id": 0,
+        "url": "Snapchat",
+        "username": "em2183",
+        "password": "hV,)M@>v"
+      },
+      {
+        "id": 0,
+        "url": "Snapchat",
+        "username": "emmaleemedlock",
+        "password": "$eZ^HclU"
+      },
+      {
+        "id": 0,
+        "url": "Telegram",
+        "username": "emm2115",
+        "password": ">3{&#2Vn"
+      },
+      {
+        "id": 0,
+        "url": "Twitter",
+        "username": "munsotanrepoo",
+        "password": "[VT61T)."
+      },
+      {
+        "id": 0,
+        "url": "Twitter",
+        "username": "emmalee3080",
+        "password": "k4<^(MGl"
+      },
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "emmale5762",
+        "password": "esMWMmbJ"
+      },
+      {
+        "id": 0,
+        "url": "Instagram",
+        "username": "emmaleemedloc508",
+        "password": "s+oT%d2:"
+      },
+      {
+        "id": 0,
+        "url": "http://nttest.co.uk",
+        "username": "emmaleemedlock159",
+        "password": "dm07/?LM"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 1.3133301579747871,
+      "beauty": -1.455111472449432,
+      "curiosity": 0.13962406265985994,
+      "eating": -1.2990345910361616,
+      "family": 0.7027598389937735,
+      "honor": -0.35140825095673733,
+      "idealism": 1.1135801630805853,
+      "independence": 1.5204030967575637,
+      "order": 1.48557829095691,
+      "physicalActivity": 0.17785553262463516,
+      "power": -0.07836903209417789,
+      "saving": -1.3150923458981456,
+      "socialContact": -1.895419757772082,
+      "status": 1.51813247801288,
+      "tranquility": -0.7933464851859315,
+      "vengeance": -0.4273367823740082
+    },
+    "cac": null,
+    "photoLink": "config/photos/female/fb881cca-6f26-41c7-8c33-5fa7cfe14a4a/199.jpg",
+    "created": "2025-07-10T05:49:41.0452871Z"
+  }
+}

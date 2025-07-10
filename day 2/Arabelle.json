@@ -1,0 +1,453 @@
+{
+  "id": "a0019087-8e00-4abb-a727-70695162cd93",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day2",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "a0019087-8e00-4abb-a727-70695162cd93",
+    "name": {
+      "prefix": null,
+      "first": "Arabelle",
+      "middle": null,
+      "last": "Brys",
+      "suffix": "MD"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "584 Falke Roads",
+        "address2": null,
+        "city": "Oak Park",
+        "state": "Michigan",
+        "postalCode": "48237"
+      }
+    ],
+    "email": "arabelle.brys.mil@mail.mil",
+    "password": "<!c>S!nq",
+    "homePhone": "(715) 932-8836",
+    "cellPhone": "(579) 121-1379",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "224th Cyberspace Operations Squadron",
+          "type": "Squadron",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USAF",
+      "pay": "E-2",
+      "name": "Airman",
+      "abbr": "Amn",
+      "classification": "Enlisted Airman",
+      "billet": null,
+      "mos": "Historian",
+      "mosid": "3H",
+      "probability": 0.0300908
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Oak Park High School",
+            "location": "Oak Park, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Umbrella Corp.",
+          "startDate": "2024-12-09T12:30:22.3749571+00:00",
+          "endDate": null,
+          "department": "Communications and Media",
+          "organization": "Umbrella Corp.",
+          "jobTitle": "Photographer  I",
+          "level": 1,
+          "salary": 19563,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ArabelleBrys@UmbrellaCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Umbrella Corp.",
+            "address1": "864 Aleece Branch",
+            "address2": null,
+            "city": "Jacksonville",
+            "state": "Florida",
+            "postalCode": "32256"
+          },
+          "phone": "(216) 345-2097 x0733",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Nakatomi Trading Corp.",
+          "startDate": "2009-08-11T17:51:22.3755478+00:00",
+          "endDate": "2020-12-20T00:28:22.3753684+00:00",
+          "department": "Communications and Media",
+          "organization": "Nakatomi Trading Corp.",
+          "jobTitle": "Printing III",
+          "level": 3,
+          "salary": 34836,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ArabelleBrys@NakatomiTradingCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Nakatomi Trading Corp.",
+            "address1": "339 Tremblay Falls",
+            "address2": null,
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "postalCode": "89101"
+          },
+          "phone": "(084) 030-8944 x6319",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Very Big Corp. of America",
+          "startDate": "2016-01-05T08:38:22.3767124+00:00",
+          "endDate": "2018-01-07T06:51:22.3765404+00:00",
+          "department": "Corporate Research",
+          "organization": "Very Big Corp. of America",
+          "jobTitle": "Research  Analyst II",
+          "level": 2,
+          "salary": 67959,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "ArabelleBrys@VeryBigCorp.ofAmerica.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Very Big Corp. of America",
+            "address1": "904 Varano Lakes",
+            "address2": null,
+            "city": "Webster",
+            "state": "Texas",
+            "postalCode": "77598"
+          },
+          "phone": "(099) 061-6610 x0825",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Female",
+    "birthdate": "1995-08-03T16:49:22.361097+00:00",
+    "health": {
+      "height": 67,
+      "weight": 166,
+      "bloodType": "A+",
+      "preferredMeal": "Vegetarian",
+      "medicalConditions": [
+        {
+          "name": "Poisoning",
+          "prescriptions": [
+            {
+              "name": "Charcoal Activated"
+            },
+            {
+              "name": "Ipecac"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "An extra change of clothes and shoes"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Wainwright",
+            "middle": null,
+            "last": "Meseberg",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": -6969,
+      "totalDebt": 29098,
+      "creditCards": [
+        {
+          "number": "5260791054273261",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 35,
+      "adherenceToPolicy": 9,
+      "enthusiasmAndAttitude": 50,
+      "openToFeedback": 79,
+      "generalPerformance": 13,
+      "overallPerformance": 96,
+      "iq": 103,
+      "spideySense": 6,
+      "senseSomethingIsWrongQuotient": 50,
+      "happyQuotient": 91,
+      "melancholyQuotient": 87
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "JP",
+          "country": "Japan",
+          "destination": "Ishinomaki, Japan",
+          "arriveDestination": "2006-07-11T05:37:40.3795205+00:00",
+          "departDestination": "2006-07-23T02:41:32.3795205+00:00"
+        },
+        {
+          "code": "PH",
+          "country": "Philippines",
+          "destination": "San Nicolas, Philippines",
+          "arriveDestination": "2018-07-12T23:34:04.421933+00:00",
+          "departDestination": "2018-07-24T00:47:30.421933+00:00"
+        },
+        {
+          "code": "PH",
+          "country": "Philippines",
+          "destination": "Alaminos, Philippines",
+          "arriveDestination": "2022-07-11T21:14:51.4646055+00:00",
+          "departDestination": "2022-07-31T12:45:23.4646055+00:00"
+        },
+        {
+          "code": "ID",
+          "country": "Indonesia",
+          "destination": "Manggar, Indonesia",
+          "arriveDestination": "2018-07-11T00:47:52.5069667+00:00",
+          "departDestination": "2018-07-21T05:54:38.5069667+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": -43,
+      "teamValue": 55,
+      "strengths": [
+        {
+          "name": "Project Lifecycle Management"
+        },
+        {
+          "name": "CRO"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Taking credit for group projects"
+        },
+        {
+          "name": "Covering for co-workers"
+        },
+        {
+          "name": "Organization"
+        },
+        {
+          "name": "Taking on too many projects at once"
+        },
+        {
+          "name": "Patience"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-56.local",
+      "domain": "kayaliogluaguiar.mil",
+      "username": "arabelle.brys",
+      "password": "EYDFd?jN",
+      "ipAddress": "192.168.147.108"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Pay garnishment",
+            "correctiveAction": null,
+            "reportedBy": "Almeria Hiltz",
+            "reported": "2025-04-27T06:37:23.2474515+00:00"
+          }
+        ]
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Employee encrypted files without permission",
+            "correctiveAction": "Suspended",
+            "reportedBy": "Golda Baquero",
+            "reported": "2025-03-30T16:39:23.2491612+00:00"
+          },
+          {
+            "id": 0,
+            "description": "Disruptive Behavior",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2023-05-20T09:57:23.2509284+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "TikTok",
+        "username": "arabellebr1003",
+        "password": "Haz3r]eP"
+      },
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "amberxoxo",
+        "password": "WR?%JV13"
+      },
+      {
+        "id": 0,
+        "url": "openvpn",
+        "username": "hackintoshfix",
+        "password": "}M31kXI?"
+      },
+      {
+        "id": 0,
+        "url": "gmail",
+        "username": "arabe",
+        "password": "*6M^6i;r"
+      },
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "a2811",
+        "password": "OM(RyBag"
+      },
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "ara",
+        "password": "f@Kq|SQq"
+      },
+      {
+        "id": 0,
+        "url": "WhatsApp",
+        "username": "LiamGaffney01",
+        "password": "O,Ee/U53"
+      },
+      {
+        "id": 0,
+        "url": "QQ",
+        "username": "laskdjfgl",
+        "password": "x&sXP65#"
+      },
+      {
+        "id": 0,
+        "url": "nmail",
+        "username": "arabelle2175",
+        "password": "Hk1.Bj#S"
+      },
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "Area44",
+        "password": "crmHgcYI"
+      },
+      {
+        "id": 0,
+        "url": "Medium",
+        "username": "hammena",
+        "password": ",Bgl93{p"
+      },
+      {
+        "id": 0,
+        "url": "http://trotter.info",
+        "username": "arabel5635",
+        "password": "#8s2Jv8{"
+      },
+      {
+        "id": 0,
+        "url": "http://hawryszko.info",
+        "username": "gonzobomb",
+        "password": "+[GyYnwT"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 1.1616290219857013,
+      "beauty": 0.36255274725758246,
+      "curiosity": 0.6455085485582197,
+      "eating": -0.8675866536012169,
+      "family": -0.9709444121793043,
+      "honor": 1.1320673940785198,
+      "idealism": 0.06145183152269196,
+      "independence": -0.3328197456025408,
+      "order": 1.2750128577635689,
+      "physicalActivity": -1.4037631746985024,
+      "power": -0.09450977376981173,
+      "saving": -1.2116421513537605,
+      "socialContact": 0.5961862010975723,
+      "status": 1.5418215573190688,
+      "tranquility": 0.9059030447992549,
+      "vengeance": 0.007624693329874699
+    },
+    "cac": null,
+    "photoLink": "config/photos/female/fb881cca-6f26-41c7-8c33-5fa7cfe14a4a/173.jpg",
+    "created": "2025-07-10T05:49:22.3523193Z"
+  }
+}

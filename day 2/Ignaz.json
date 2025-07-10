@@ -1,0 +1,526 @@
+{
+  "id": "a78ee3ef-9a47-4bed-922b-7accc439243b",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day2",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "a78ee3ef-9a47-4bed-922b-7accc439243b",
+    "name": {
+      "prefix": null,
+      "first": "Ignaz",
+      "middle": "Wakefield",
+      "last": "Reinink",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "100 Pathak Views",
+        "address2": null,
+        "city": "Pulaski",
+        "state": "Virginia",
+        "postalCode": "24301"
+      }
+    ],
+    "email": "ignaz.wakefield.reinink.mil@mail.mil",
+    "password": ":$/s409c",
+    "homePhone": "(321) 779-5992",
+    "cellPhone": "(036) 350-1059",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "272nd Cyberspace Operations Squadron",
+          "type": "Squadron",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USAF",
+      "pay": "E-4",
+      "name": "Senior Airman",
+      "abbr": "SrA",
+      "classification": "Enlisted Airman",
+      "billet": null,
+      "mos": "Special Investigations",
+      "mosid": "7S0X1",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "HSDiploma",
+          "degreeType": "",
+          "major": "",
+          "school": {
+            "name": "Pulaski High School",
+            "location": "Pulaski, USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2018-01-07T17:43:20.4601599+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 48993,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "IgnazWakefieldReinink@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "425 Fredriksen Mission",
+            "address2": null,
+            "city": "Port Washington",
+            "state": "New York",
+            "postalCode": "11050"
+          },
+          "phone": "(227) 711-7663 x3677",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Wayne Enterprises",
+          "startDate": "2019-02-23T00:47:20.461308+00:00",
+          "endDate": "2023-04-17T12:32:20.4611092+00:00",
+          "department": "Human Resources",
+          "organization": "Wayne Enterprises",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 43106,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "IgnazWakefieldReinink@WayneEnterprises.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wayne Enterprises",
+            "address1": "298 Van Eyk Union",
+            "address2": null,
+            "city": "Edmonds",
+            "state": "Washington",
+            "postalCode": "98020"
+          },
+          "phone": "(775) 905-5723 x2681",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2007-04-14T16:41:20.4623986+00:00",
+          "endDate": "2016-12-13T06:05:20.4622292+00:00",
+          "department": "Administration",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Admin Support I",
+          "level": 1,
+          "salary": 40741,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "IgnazWakefieldReinink@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "011 Couto Keys",
+            "address2": null,
+            "city": "Ogden",
+            "state": "Utah",
+            "postalCode": "84403"
+          },
+          "phone": "(025) 318-8644 x0228",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Soylent Corp.",
+          "startDate": "2010-10-19T14:20:20.4635055+00:00",
+          "endDate": "2024-02-11T08:14:20.4633202+00:00",
+          "department": "Finance",
+          "organization": "Soylent Corp.",
+          "jobTitle": "Accountant III",
+          "level": 3,
+          "salary": 49905,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "IgnazWakefieldReinink@SoylentCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Soylent Corp.",
+            "address1": "644 Merill Loop",
+            "address2": null,
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "postalCode": "87113"
+          },
+          "phone": "(755) 696-0639 x1845",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Male",
+    "birthdate": "1994-08-22T20:49:20.4530577+00:00",
+    "health": {
+      "height": 72,
+      "weight": 160,
+      "bloodType": "O+",
+      "preferredMeal": "Infant",
+      "medicalConditions": [
+        {
+          "name": "Bulimia",
+          "prescriptions": [
+            {
+              "name": "Antidepressants, Tricyclic"
+            },
+            {
+              "name": "Lithium"
+            },
+            {
+              "name": "Selective Serotonin Reuptake Inhibitors (SSRIs)"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Potable water,Blankets"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Caroljean",
+            "middle": "Patric",
+            "last": "Pangia",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Sileas",
+            "middle": null,
+            "last": "Reddick",
+            "suffix": "I"
+          },
+          "relationship": "Child"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Laetitia",
+            "middle": "Layton",
+            "last": "Kapsa",
+            "suffix": null
+          },
+          "relationship": "Child"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 21893,
+      "totalDebt": 71096,
+      "creditCards": [
+        {
+          "number": "4556326880670921",
+          "type": "Visa"
+        },
+        {
+          "number": "3019564148630831",
+          "type": "DinersClub"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 71,
+      "adherenceToPolicy": 12,
+      "enthusiasmAndAttitude": 23,
+      "openToFeedback": 15,
+      "generalPerformance": 65,
+      "overallPerformance": 32,
+      "iq": 125,
+      "spideySense": 27,
+      "senseSomethingIsWrongQuotient": 21,
+      "happyQuotient": 65,
+      "melancholyQuotient": 55
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "GB",
+          "country": "United Kingdom",
+          "destination": "Rottingdean, United Kingdom",
+          "arriveDestination": "2008-07-11T12:37:17.4688731+00:00",
+          "departDestination": "2008-07-31T15:48:31.4688731+00:00"
+        },
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Santa Cruz do Capibaribe, Brazil",
+          "arriveDestination": "2020-07-12T19:14:17.5122612+00:00",
+          "departDestination": "2020-08-01T21:25:57.5122612+00:00"
+        },
+        {
+          "code": "ZA",
+          "country": "South Africa",
+          "destination": "Randfontein, South Africa",
+          "arriveDestination": "2023-07-13T02:28:35.5554154+00:00",
+          "departDestination": "2023-07-20T15:20:12.5554154+00:00"
+        },
+        {
+          "code": "CN",
+          "country": "China",
+          "destination": "Qamdo, China",
+          "arriveDestination": "2005-07-13T03:47:46.598848+00:00",
+          "departDestination": "2005-07-19T13:52:07.598848+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 48,
+      "teamValue": 31,
+      "strengths": [
+        {
+          "name": "Email Marketing"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Being too honest"
+        },
+        {
+          "name": "Taking credit for group projects"
+        },
+        {
+          "name": "Taking on too many projects at once"
+        },
+        {
+          "name": "Standardized tests"
+        },
+        {
+          "name": "Humor"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-20.local",
+      "domain": "stocker.mil",
+      "username": "ignaz.wakefield.reinink",
+      "password": "L3jF?PAR",
+      "ipAddress": "192.168.43.248"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Service in foreign military or government",
+            "correctiveAction": null,
+            "reportedBy": "Evan Hoorman",
+            "reported": "2011-08-28T20:02:21.4608713+00:00"
+          }
+        ]
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Security Infraction",
+            "correctiveAction": "Sent home for the day",
+            "reportedBy": "Tobiah Dhar",
+            "reported": "2005-09-18T00:15:21.4620868+00:00"
+          }
+        ]
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Policy Violation",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2014-12-17T06:37:21.4632177+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Tumblr",
+        "username": "irrational_throwaway",
+        "password": "_W8?SjV_"
+      },
+      {
+        "id": 0,
+        "url": "QQ",
+        "username": "ignazwakefieldreinink6983",
+        "password": "ca^Kjp,+"
+      },
+      {
+        "id": 0,
+        "url": "Medium",
+        "username": "replies-as-OP",
+        "password": "hen4/SR["
+      },
+      {
+        "id": 0,
+        "url": "Reddit",
+        "username": "i7088",
+        "password": "%T&|%a]Q"
+      },
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "igna6726",
+        "password": "8!]kN[Hp"
+      },
+      {
+        "id": 0,
+        "url": "nmail",
+        "username": "ignazwakef",
+        "password": "(Xqq>AO}"
+      },
+      {
+        "id": 0,
+        "url": "Facebook",
+        "username": "bridethrowaway12",
+        "password": "(/_97Oyz"
+      },
+      {
+        "id": 0,
+        "url": "Instagram",
+        "username": "saglienesifara",
+        "password": ")Iwp8;Hr"
+      },
+      {
+        "id": 0,
+        "url": "Facebook",
+        "username": "MmeBeaverhausen",
+        "password": "^afwGU^H"
+      },
+      {
+        "id": 0,
+        "url": "nmail",
+        "username": "ignazw9873",
+        "password": "?vuW%tND"
+      },
+      {
+        "id": 0,
+        "url": "Medium",
+        "username": "ignazwakefieldreinink7163",
+        "password": "xWO|/U|m"
+      },
+      {
+        "id": 0,
+        "url": "nmail",
+        "username": "iteachkidsgud",
+        "password": "aI|:YiOU"
+      },
+      {
+        "id": 0,
+        "url": "http://pillman.name",
+        "username": "ignazwakefield1361",
+        "password": "fg{t<RdQ"
+      },
+      {
+        "id": 0,
+        "url": "http://bottomshassan.info",
+        "username": "Knights187",
+        "password": "S]<:1[jb"
+      },
+      {
+        "id": 0,
+        "url": "http://wark.biz",
+        "username": "ignazwakefieldrein9457",
+        "password": "lq,0QC&9"
+      },
+      {
+        "id": 0,
+        "url": "http://johansenmccafferty.ca",
+        "username": "ignazwakefieldreinin5729",
+        "password": "1;0dE])K"
+      },
+      {
+        "id": 0,
+        "url": "http://rosko.us",
+        "username": "ignazwa2510",
+        "password": "E4zU3wb3"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 0.29342319886362356,
+      "beauty": -0.6550075992807374,
+      "curiosity": -1.4482257340811548,
+      "eating": -1.1576338622494942,
+      "family": -0.7256918013622626,
+      "honor": -0.9554776251151185,
+      "idealism": -1.1872730564799454,
+      "independence": -1.8977546483736538,
+      "order": 1.7598369948174288,
+      "physicalActivity": -1.3597529141587188,
+      "power": 1.6375007376595203,
+      "saving": -1.9464447179164064,
+      "socialContact": -0.10742476335579854,
+      "status": -0.1522098714177389,
+      "tranquility": 0.7368519663179294,
+      "vengeance": -0.393229116982992
+    },
+    "cac": null,
+    "photoLink": "config/photos/male/4410be36-cace-4ab1-bca7-8f2671e36de9/188.jpg",
+    "created": "2025-07-10T05:49:20.4476243Z"
+  }
+}

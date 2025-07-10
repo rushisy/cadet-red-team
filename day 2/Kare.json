@@ -1,0 +1,480 @@
+{
+  "id": "dc84edb3-b663-4c89-bcdd-83f0091bf653",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day2",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "dc84edb3-b663-4c89-bcdd-83f0091bf653",
+    "name": {
+      "prefix": null,
+      "first": "Kare",
+      "middle": null,
+      "last": "Copleston",
+      "suffix": null
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "073 Rishy-Maharaj Spring",
+        "address2": null,
+        "city": "Evansville",
+        "state": "Wisconsin",
+        "postalCode": "53536"
+      }
+    ],
+    "email": "kare.copleston.mil@mail.mil",
+    "password": "mTmYhQf7",
+    "homePhone": "(217) 010-8007",
+    "cellPhone": "(571) 697-9931",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": null,
+        "name": null,
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "state": null,
+        "postalCode": null
+      },
+      "sub": [
+        {
+          "name": "U.S. Coast Guard Cyber Command",
+          "type": "Command",
+          "nick": null,
+          "hq": null,
+          "sub": []
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USCG",
+      "pay": "E-7",
+      "name": "Chief Petty Officer",
+      "abbr": "CPO",
+      "classification": "Chief Petty Officer",
+      "billet": null,
+      "mos": "Gunner's Mate",
+      "mosid": "GM",
+      "probability": 0.014385
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Associates",
+          "degreeType": "A.A.",
+          "major": "Fire Science/Fire-fighting",
+          "school": {
+            "name": "Onondaga County Community College",
+            "location": "USA"
+          }
+        },
+        {
+          "level": "Bachelors",
+          "degreeType": "B.S.",
+          "major": "Psychiatric/Mental Health Services Technician",
+          "school": {
+            "name": "Oakland University",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "MomCorp",
+          "startDate": "2015-09-17T20:23:23.2654834+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "MomCorp",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 40383,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KareCopleston@MomCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "MomCorp",
+            "address1": "145 Yeck Parks",
+            "address2": null,
+            "city": "Shelbyville",
+            "state": "Tennessee",
+            "postalCode": "37160"
+          },
+          "phone": "(230) 653-7009 x7940",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Stark Industries",
+          "startDate": "2012-11-11T03:03:23.2668955+00:00",
+          "endDate": "2028-11-21T21:39:23.2666555+00:00",
+          "department": "Buildings And Facilities",
+          "organization": "Stark Industries",
+          "jobTitle": "Maintenance Services I",
+          "level": 1,
+          "salary": 24792,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KareCopleston@StarkIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Stark Industries",
+            "address1": "215 Grueneich Wall",
+            "address2": null,
+            "city": "Edison",
+            "state": "New Jersey",
+            "postalCode": "08820"
+          },
+          "phone": "(723) 089-6323 x7973",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Oscorp",
+          "startDate": "2013-07-06T11:57:23.2682051+00:00",
+          "endDate": "2022-05-15T17:26:23.2680209+00:00",
+          "department": "Buildings And Facilities",
+          "organization": "Oscorp",
+          "jobTitle": "Maintenance Services I",
+          "level": 1,
+          "salary": 31077,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KareCopleston@Oscorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Oscorp",
+            "address1": "407 Selinda Parkways",
+            "address2": null,
+            "city": "Bronx",
+            "state": "New York",
+            "postalCode": "10474"
+          },
+          "phone": "(567) 257-8781 x5670",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Clampett Oil",
+          "startDate": "2019-05-25T14:19:23.2687292+00:00",
+          "endDate": "2019-08-29T11:44:23.2685646+00:00",
+          "department": "IT",
+          "organization": "Clampett Oil",
+          "jobTitle": "Systems Analyst I",
+          "level": 1,
+          "salary": 49640,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KareCopleston@ClampettOil.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Clampett Oil",
+            "address1": "943 Pam Brook",
+            "address2": null,
+            "city": "Graham",
+            "state": "North Carolina",
+            "postalCode": "27253"
+          },
+          "phone": "(998) 804-7436 x7027",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Cyberdyne Systems Corp.",
+          "startDate": "2015-03-25T08:16:23.2692689+00:00",
+          "endDate": "2014-06-13T08:18:23.2690967+00:00",
+          "department": "Human Resources",
+          "organization": "Cyberdyne Systems Corp.",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 46126,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "KareCopleston@CyberdyneSystemsCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Cyberdyne Systems Corp.",
+            "address1": "968 Sheril Courts",
+            "address2": null,
+            "city": "Rochester",
+            "state": "Michigan",
+            "postalCode": "48309"
+          },
+          "phone": "(283) 375-0544 x2455",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Female",
+    "birthdate": "1990-07-05T20:49:23.2577737+00:00",
+    "health": {
+      "height": 66,
+      "weight": 151,
+      "bloodType": "O+",
+      "preferredMeal": "Low protein",
+      "medicalConditions": [
+        {
+          "name": "Insomnia",
+          "prescriptions": [
+            {
+              "name": "Belladonna Alkaloids and Barbiturates"
+            },
+            {
+              "name": "Chloral Hydrate"
+            },
+            {
+              "name": "Melatonin"
+            },
+            {
+              "name": "Meprobamate"
+            },
+            {
+              "name": "See Insomnia Medications List"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Mess kits (or disposable plates, cups, and utensils)"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Carsten",
+            "middle": "Theressa",
+            "last": "Gorham",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Jephthah",
+            "middle": null,
+            "last": "Penney",
+            "suffix": null
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 40019,
+      "totalDebt": 26178,
+      "creditCards": [
+        {
+          "number": "3012084759250644",
+          "type": "DinersClub"
+        },
+        {
+          "number": "5281433251337731",
+          "type": "MasterCard"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 11,
+      "adherenceToPolicy": 41,
+      "enthusiasmAndAttitude": 44,
+      "openToFeedback": 98,
+      "generalPerformance": 21,
+      "overallPerformance": 93,
+      "iq": 117,
+      "spideySense": 70,
+      "senseSomethingIsWrongQuotient": 93,
+      "happyQuotient": 30,
+      "melancholyQuotient": 80
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "NL",
+          "country": "Netherlands",
+          "destination": "Zeewolde, Netherlands",
+          "arriveDestination": "2010-07-10T12:13:26.2733932+00:00",
+          "departDestination": "2010-07-20T06:00:01.2733932+00:00"
+        },
+        {
+          "code": "SE",
+          "country": "Sweden",
+          "destination": "Boden, Sweden",
+          "arriveDestination": "2022-07-11T18:46:40.3175738+00:00",
+          "departDestination": "2022-07-18T01:29:52.3175738+00:00"
+        },
+        {
+          "code": "PE",
+          "country": "Peru",
+          "destination": "Sechura, Peru",
+          "arriveDestination": "2009-07-11T15:28:52.364079+00:00",
+          "departDestination": "2009-07-28T18:29:32.364079+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 48,
+      "teamValue": 43,
+      "strengths": [
+        {
+          "name": "CMS Tools"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cashier Skills"
+        },
+        {
+          "name": "Facilitator"
+        },
+        {
+          "name": "Feature Definition"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Being too much of a perfectionist"
+        },
+        {
+          "name": "Confrontation"
+        },
+        {
+          "name": "Being too detail-oriented"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-02.local",
+      "domain": "gargulak.mil",
+      "username": "kare.copleston",
+      "password": "$9<vZuFt",
+      "ipAddress": "192.168.89.33"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Falsifying Hiring Information",
+            "correctiveAction": "Written warning",
+            "reportedBy": "Bobby Harrison",
+            "reported": "2016-10-25T07:34:23.6201514+00:00"
+          }
+        ]
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Disruptive Behavior",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2017-06-08T07:00:23.6215432+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Youtube",
+        "username": "karecoplest",
+        "password": "7igKV&n["
+      },
+      {
+        "id": 0,
+        "url": "Youtube",
+        "username": "rachydarby",
+        "password": "V#h(tV6V"
+      },
+      {
+        "id": 0,
+        "url": "http://pollinzi.co.uk",
+        "username": "itsprada",
+        "password": "uG(%C;7Y"
+      },
+      {
+        "id": 0,
+        "url": "http://nssloadbuilder.info",
+        "username": "karecopleston7811",
+        "password": "Y]VoZ/@Y"
+      },
+      {
+        "id": 0,
+        "url": "http://havis.name",
+        "username": "karecoplest2119",
+        "password": "uczQZ.@z"
+      },
+      {
+        "id": 0,
+        "url": "http://bellew.name",
+        "username": "karecop9878",
+        "password": "&um,F&Wl"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": 0.12026028035944591,
+      "beauty": 0.005829262985560302,
+      "curiosity": 1.6893768897683135,
+      "eating": 1.538591571142086,
+      "family": -1.213669968260136,
+      "honor": 0.7848709575089492,
+      "idealism": 0.9512200497900238,
+      "independence": 1.7446210617759697,
+      "order": 1.2661559504412727,
+      "physicalActivity": -1.6816780386763992,
+      "power": 1.96874815305687,
+      "saving": 1.3980868674746305,
+      "socialContact": -1.4825779151340335,
+      "status": -1.499916631423143,
+      "tranquility": -1.32430587615386,
+      "vengeance": -0.8913722198013581
+    },
+    "cac": null,
+    "photoLink": "config/photos/female/fb881cca-6f26-41c7-8c33-5fa7cfe14a4a/194.jpg",
+    "created": "2025-07-10T05:49:23.2523182Z"
+  }
+}

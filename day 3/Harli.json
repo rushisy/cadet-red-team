@@ -1,0 +1,478 @@
+{
+  "id": "637345d6-2c3a-482a-8cbc-e459b100ebc3",
+  "machineId": null,
+  "campaign": "CF25",
+  "enclave": "day3",
+  "team": "Red Team",
+  "npcProfile": {
+    "id": "637345d6-2c3a-482a-8cbc-e459b100ebc3",
+    "name": {
+      "prefix": null,
+      "first": "Harli",
+      "middle": null,
+      "last": "El-Torky",
+      "suffix": "IV"
+    },
+    "address": [
+      {
+        "addressType": "Home",
+        "name": null,
+        "address1": "854 Jamaly Islands",
+        "address2": null,
+        "city": "Bronx",
+        "state": "New York",
+        "postalCode": "10472"
+      }
+    ],
+    "email": "harli.eltorky.mil@mail.mil",
+    "password": "6!SaoKF2",
+    "homePhone": "(529) 032-7571",
+    "cellPhone": "(159) 067-0412",
+    "preferences": null,
+    "unit": {
+      "country": "US",
+      "address": {
+        "addressType": "Base",
+        "name": "Naval Air Station Key West",
+        "address1": "874 Gurley Ville",
+        "address2": null,
+        "city": "Fort Myers",
+        "state": "FL",
+        "postalCode": "33908"
+      },
+      "sub": [
+        {
+          "name": "U.S. Fleet Cyber Command – Tenth Fleet",
+          "type": "Command",
+          "nick": null,
+          "hq": "Fort Meade",
+          "sub": [
+            {
+              "name": "Navy Information Operations Command Hawaii (Task Force 1070)",
+              "type": "Command",
+              "nick": null,
+              "hq": null,
+              "sub": []
+            }
+          ]
+        }
+      ]
+    },
+    "rank": {
+      "branch": "USN",
+      "pay": "E-4",
+      "name": "Petty Officer Third Class",
+      "abbr": "PO3",
+      "classification": "Noncommissioned Officer",
+      "billet": "Plt Corpsman",
+      "mos": "Aerographer's mate",
+      "mosid": "AG",
+      "probability": 0.0415051
+    },
+    "education": {
+      "degrees": [
+        {
+          "level": "Associates",
+          "degreeType": "A.A.",
+          "major": "Liberal Arts and Sciences/Liberal Studies",
+          "school": {
+            "name": "Buchanan County Community College",
+            "location": "USA"
+          }
+        }
+      ]
+    },
+    "employment": {
+      "employmentRecords": [
+        {
+          "company": "Wonka Industries",
+          "startDate": "2024-11-07T12:28:42.5045384+00:00",
+          "endDate": null,
+          "department": "Human Resources",
+          "organization": "Wonka Industries",
+          "jobTitle": "Human Resources I",
+          "level": 1,
+          "salary": 46754,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "HarliElTorky@WonkaIndustries.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Wonka Industries",
+            "address1": "637 Coe Overpass",
+            "address2": null,
+            "city": "Westbury",
+            "state": "New York",
+            "postalCode": "11590"
+          },
+          "phone": "(558) 467-2990 x2910",
+          "employmentStatus": "FullTime"
+        },
+        {
+          "company": "Cyberdyne Systems Corp.",
+          "startDate": "2022-09-14T17:51:42.5057231+00:00",
+          "endDate": "2022-01-21T10:22:42.50554+00:00",
+          "department": "Purchasing",
+          "organization": "Cyberdyne Systems Corp.",
+          "jobTitle": "Buyer III,",
+          "level": 5,
+          "salary": 50001,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "HarliElTorky@CyberdyneSystemsCorp.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Cyberdyne Systems Corp.",
+            "address1": "526 Trudie Roads",
+            "address2": null,
+            "city": "Port Washington",
+            "state": "New York",
+            "postalCode": "11050"
+          },
+          "phone": "(371) 680-4598 x4712",
+          "employmentStatus": "Resigned"
+        },
+        {
+          "company": "Very Big Corp. of America",
+          "startDate": "2019-04-17T05:52:42.5062655+00:00",
+          "endDate": "2024-02-28T01:25:42.5060976+00:00",
+          "department": "IT",
+          "organization": "Very Big Corp. of America",
+          "jobTitle": "Programmer III",
+          "level": 3,
+          "salary": 76469,
+          "manager": "00000000-0000-0000-0000-000000000000",
+          "emailSuffix": null,
+          "email": "HarliElTorky@VeryBigCorp.ofAmerica.com",
+          "address": {
+            "addressType": "Employment",
+            "name": "Very Big Corp. of America",
+            "address1": "128 Passin Islands",
+            "address2": null,
+            "city": "Wichita",
+            "state": "Kansas",
+            "postalCode": "67208"
+          },
+          "phone": "(692) 513-8711 x6503",
+          "employmentStatus": "Resigned"
+        }
+      ]
+    },
+    "biologicalSex": "Female",
+    "birthdate": "1986-07-03T20:49:42.4987496+00:00",
+    "health": {
+      "height": 66,
+      "weight": 156,
+      "bloodType": "A+",
+      "preferredMeal": "",
+      "medicalConditions": [
+        {
+          "name": "Fever",
+          "prescriptions": [
+            {
+              "name": "Acetaminophen"
+            },
+            {
+              "name": "NSAIDs"
+            },
+            {
+              "name": "Aspirin"
+            },
+            {
+              "name": "Barbiturates, Aspirin and Codeine"
+            },
+            {
+              "name": "Chlorzoxazone and Acetaminophen"
+            },
+            {
+              "name": "Narcotic Analgesics and Aspirin"
+            },
+            {
+              "name": "Salicylates"
+            }
+          ]
+        }
+      ]
+    },
+    "attributes": {
+      "Supply_Needs": "Flares,Latex gloves, face masks,Nails, screws"
+    },
+    "relationships": [],
+    "family": {
+      "members": [
+        {
+          "name": {
+            "prefix": null,
+            "first": "Christie",
+            "middle": null,
+            "last": "Neilsen",
+            "suffix": null
+          },
+          "relationship": "Parent"
+        },
+        {
+          "name": {
+            "prefix": null,
+            "first": "Berkley",
+            "middle": null,
+            "last": "Ballou",
+            "suffix": "DDS"
+          },
+          "relationship": "Spouse"
+        }
+      ]
+    },
+    "finances": {
+      "netWorth": 23644,
+      "totalDebt": 49418,
+      "creditCards": [
+        {
+          "number": "3010491582540293",
+          "type": "DinersClub"
+        }
+      ]
+    },
+    "mentalHealth": {
+      "interpersonalSkills": 26,
+      "adherenceToPolicy": 77,
+      "enthusiasmAndAttitude": 60,
+      "openToFeedback": 8,
+      "generalPerformance": 27,
+      "overallPerformance": 28,
+      "iq": 109,
+      "spideySense": 7,
+      "senseSomethingIsWrongQuotient": 38,
+      "happyQuotient": 49,
+      "melancholyQuotient": 86
+    },
+    "foreignTravel": {
+      "trips": [
+        {
+          "code": "ES",
+          "country": "Spain",
+          "destination": "Redondela, Spain",
+          "arriveDestination": "2015-07-10T17:32:03.511853+00:00",
+          "departDestination": "2015-07-16T09:38:15.511853+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "West Melbourne, United States",
+          "arriveDestination": "2019-07-11T13:56:01.5656596+00:00",
+          "departDestination": "2019-07-18T06:35:39.5656596+00:00"
+        },
+        {
+          "code": "US",
+          "country": "United States",
+          "destination": "Boca Del Mar, United States",
+          "arriveDestination": "2021-07-10T18:20:46.6081561+00:00",
+          "departDestination": "2021-07-23T11:38:23.6081561+00:00"
+        },
+        {
+          "code": "BR",
+          "country": "Brazil",
+          "destination": "Batatais, Brazil",
+          "arriveDestination": "2011-07-12T13:28:36.6504837+00:00",
+          "departDestination": "2011-07-28T09:41:38.6504837+00:00"
+        },
+        {
+          "code": "DE",
+          "country": "Germany",
+          "destination": "Seesen, Germany",
+          "arriveDestination": "2021-07-10T23:36:20.6929134+00:00",
+          "departDestination": "2021-07-23T10:37:09.6929134+00:00"
+        }
+      ]
+    },
+    "career": {
+      "workEthic": 42,
+      "teamValue": 44,
+      "strengths": [
+        {
+          "name": "Photography and Branding"
+        },
+        {
+          "name": "Email Marketing"
+        },
+        {
+          "name": "Cashier Skills"
+        },
+        {
+          "name": "Calendar Management"
+        },
+        {
+          "name": "Typography"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Creativity"
+        },
+        {
+          "name": "Expecting too much from colleagues"
+        },
+        {
+          "name": "Patience"
+        },
+        {
+          "name": "Expecting too much from colleagues"
+        }
+      ]
+    },
+    "workstation": {
+      "name": "flag-65.local",
+      "domain": "terandomine.mil",
+      "username": "harli.el-torky",
+      "password": "/v!;d9Z^",
+      "ipAddress": "192.168.36.206"
+    },
+    "insiderThreat": {
+      "access": {
+        "id": 0,
+        "relatedEvents": [],
+        "securityClearance": "N/A",
+        "physicalAccess": "N/A",
+        "systemsAccess": "N/A",
+        "isDoDSystemsPrivilegedUser": false,
+        "explosivesAccess": "N/A",
+        "cbrnAccess": "N/A"
+      },
+      "criminalViolentOrAbusiveConduct": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Threatening Violence",
+            "correctiveAction": null,
+            "reportedBy": "Nellie Marciniuk",
+            "reported": "2017-10-13T23:40:43.0022571+00:00"
+          }
+        ]
+      },
+      "financialConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "foreignConsiderations": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "judgementCharacterAndPsychologicalConditions": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "professionalLifecycleAndPerformance": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Missed Promotion",
+            "correctiveAction": null,
+            "reportedBy": "Madonna Everett",
+            "reported": "2017-03-04T16:51:43.0035579+00:00"
+          }
+        ]
+      },
+      "securityAndComplianceIncidents": {
+        "id": 0,
+        "relatedEvents": []
+      },
+      "substanceAbuseAndAddictiveBehaviors": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Legal Substance Abuse Or Trafficking",
+            "correctiveAction": null,
+            "reportedBy": "Krissie Elfie Guerin",
+            "reported": "2014-04-01T05:57:43.0049977+00:00"
+          }
+        ]
+      },
+      "technicalActivity": {
+        "id": 0,
+        "relatedEvents": [
+          {
+            "id": 0,
+            "description": "Job Performance Problem",
+            "correctiveAction": null,
+            "reportedBy": null,
+            "reported": "2021-01-21T15:46:43.006715+00:00"
+          }
+        ]
+      },
+      "isBackgroundCheckStatusClear": false
+    },
+    "accounts": [
+      {
+        "id": 0,
+        "url": "Pinterest",
+        "username": "harlieltorky9519",
+        "password": "Ct)!}lCc"
+      },
+      {
+        "id": 0,
+        "url": "LinkedIn",
+        "username": "harliel2549",
+        "password": "QU&yub&h"
+      },
+      {
+        "id": 0,
+        "url": "Signal",
+        "username": "thrawy123456789",
+        "password": "aQVsA:I*"
+      },
+      {
+        "id": 0,
+        "url": "http://vanderwel.com",
+        "username": "harl5128",
+        "password": "ixLk@CO9"
+      },
+      {
+        "id": 0,
+        "url": "http://rockley.info",
+        "username": "menileek",
+        "password": "(YD_BJa$"
+      },
+      {
+        "id": 0,
+        "url": "http://schulte.com",
+        "username": "harl2260",
+        "password": "!x2U2)21"
+      },
+      {
+        "id": 0,
+        "url": "http://vinet.biz",
+        "username": "harlieltork4500",
+        "password": "e:0a}eWl"
+      },
+      {
+        "id": 0,
+        "url": "http://rester.biz",
+        "username": "PoliteAndWellSpoken",
+        "password": "2N(/G$7K"
+      }
+    ],
+    "motivationalProfile": {
+      "acceptance": -0.7496114234360247,
+      "beauty": -0.48438474662466957,
+      "curiosity": 1.4949084724801711,
+      "eating": -0.396737242772911,
+      "family": -0.7923447523764731,
+      "honor": 1.809892789941133,
+      "idealism": -1.989954989582328,
+      "independence": -1.343335555586369,
+      "order": 1.0569169147076085,
+      "physicalActivity": -0.566818854086653,
+      "power": -1.9436335427827123,
+      "saving": -1.8693295721947671,
+      "socialContact": 0.8859878247710995,
+      "status": 1.7454935179207225,
+      "tranquility": -1.4750298138408557,
+      "vengeance": -1.6319880628000276
+    },
+    "cac": null,
+    "photoLink": "config/photos/female/fb881cca-6f26-41c7-8c33-5fa7cfe14a4a/183.jpg",
+    "created": "2025-07-10T05:49:42.4913548Z"
+  }
+}

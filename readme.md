@@ -3,7 +3,7 @@
 - mock personas are populated by day
 
 - still figuring out how to connect client to server (assmuing JV will take care of this if he is configuring virtual machines on AWS)
-- - JV, you should hopefully be able to download each persona (json) file and upload to respective client
+    - JV, you should hopefully be able to download each persona (json) file and upload to respective client
 
 ## Questions
 

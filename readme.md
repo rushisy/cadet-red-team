@@ -8,6 +8,7 @@ request to be added as a collaborator, or fork the repo and open a pull request 
 
 - still figuring out how to connect client to server (assmuing JV will take care of this if he is manually configuring virtual machines)
     - JV, you should hopefully be able to download each persona (json) file and upload to respective client
+- if you are a contributor (cadet), you have ghost server api installed properly: https://cmu-sei.github.io/GHOSTS/core/api/
 
 ## Questions
 

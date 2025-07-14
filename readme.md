@@ -1,5 +1,8 @@
 # Red Team Personas CF25
 
+change readme
+
+
 request to be added as a collaborator, or fork the repo and open a pull request to contribute to main.
 
 - mock personas are populated by day
